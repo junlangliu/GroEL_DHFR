@@ -1,0 +1,592 @@
+PDB_ID,Amino_Acid,Original_Position,Sequence_ID,Description,All_Chains,Resolved_Chain,Chain_Description,Chain_Length,Found_Amino_Acid,Phi,Psi,Status
+1AI9,M,25,1AI9,1AI9 Candida albicans | DHFR_domain:6-172,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-82.21,132.6,Success
+1AO8,L,19,1AO8,1AO8 Lacticaseibacillus casei | DHFR_domain:1-160,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-91.49,156.44,Success
+1AOE,M,25,1AOE,1AOE Candida albicans | DHFR_domain:6-172,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-82.05,141.91,Success
+1BOZ,L,22,1BOZ,1BOZ Homo sapiens | DHFR_domain:3-184,A,A,PROTEIN (DIHYDROFOLATE REDUCTASE),186,LEU,-76.21,147.27,Success
+1BZF,L,19,1BZF,1BZF Lacticaseibacillus casei | DHFR_domain:1-160,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-86.92,156.59,Success
+1CD2,L,25,1CD2,1CD2 Pneumocystis carinii | DHFR_domain:6-185,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-87.2,136.1,Success
+1DAJ,L,25,1DAJ,1DAJ Pneumocystis carinii | DHFR_domain:6-185,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-83.65,106.98,Success
+1DDR,M,20,1DDR,1DDR Escherichia coli B | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-78.99,135.28,Success
+1DDS,M,20,1DDS,1DDS Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-71.17,142.54,Success
+1DF7,I,20,1DF7,1DF7 Mycobacterium tuberculosis | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,ILE,-89.48,119.17,Success
+1DG5,I,20,1DG5,1DG5 Mycobacterium tuberculosis | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,ILE,-92.02,122.76,Success
+1DG7,I,20,1DG7,1DG7 Mycobacterium tuberculosis | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,ILE,-108.79,112.36,Success
+1DG8,I,20,1DG8,1DG8 Mycobacterium tuberculosis | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,ILE,-98.26,119.58,Success
+1DHF,L,22,1DHF,1DHF Homo sapiens | DHFR_domain:3-184,"A,B",A,DIHYDROFOLATE REDUCTASE,185,LEU,-66.29,134.88,Success
+1DHI,M,20,1DHI,1DHI Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-74.89,145.34,Success
+1DHJ,M,20,1DHJ,1DHJ Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-79.44,148.06,Success
+1DIS,L,19,1DIS,1DIS Lacticaseibacillus casei | DHFR_domain:1-160,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-63.69,138.4,Success
+1DIU,L,19,1DIU,1DIU Lacticaseibacillus casei | DHFR_domain:1-160,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-80.23,146.55,Success
+1DR1,L,22,1DR1,1DR1 Gallus gallus | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-83.28,156.16,Success
+1DR2,L,22,1DR2,1DR2 Gallus gallus | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-78.49,149.75,Success
+1DR3,L,22,1DR3,1DR3 Gallus gallus | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-76.48,148.15,Success
+1DR4,L,22,1DR4,1DR4 Gallus gallus | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-78.55,145.21,Success
+1DR5,L,22,1DR5,1DR5 Gallus gallus | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-80.04,151.77,Success
+1DR6,L,22,1DR6,1DR6 Gallus gallus | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-79.61,154.59,Success
+1DR7,L,22,1DR7,1DR7 Gallus gallus | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-81.32,154.22,Success
+1DRA,M,20,1DRA,1DRA Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-73.66,144.43,Success
+1DRB,M,20,1DRB,1DRB Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-78.73,145.83,Success
+1DRE,M,20,1DRE,1DRE Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-116.48,130.96,Success
+1DRF,L,22,1DRF,1DRF Homo sapiens | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-68.17,133.31,Success
+1DRH,M,20,1DRH,1DRH Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-99.46,117.9,Success
+1DYH,M,20,1DYH,1DYH Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-73.56,140.24,Success
+1DYI,M,20,1DYI,1DYI Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-71.7,143.76,Success
+1DYJ,M,20,1DYJ,1DYJ Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-69.97,141.44,Success
+1DYR,L,25,1DYR,1DYR Pneumocystis carinii | DHFR_domain:6-185,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-78.68,133.74,Success
+1E26,L,25,1E26,1E26 Pneumocystis carinii | DHFR_domain:6-185,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-123.49,100.55,Success
+1HFP,L,22,1HFP,1HFP Homo sapiens | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-74.46,143.08,Success
+1HFQ,L,22,1HFQ,1HFQ Homo sapiens | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-75.07,147.0,Success
+1HFR,L,22,1HFR,1HFR Homo sapiens | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-76.5,147.9,Success
+1IA1,M,25,1IA1,1IA1 Candida albicans | DHFR_domain:6-172,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-82.82,141.68,Success
+1IA2,M,25,1IA2,1IA2 Candida albicans | DHFR_domain:6-172,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-79.25,135.82,Success
+1IA3,M,25,1IA3,1IA3 Candida albicans | DHFR_domain:6-172,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-73.77,130.77,Success
+1IA4,M,25,1IA4,1IA4 Candida albicans | DHFR_domain:6-172,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-72.82,133.88,Success
+1JOL,M,20,1JOL,1JOL Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-73.03,144.62,Success
+1JOM,M,20,1JOM,1JOM Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-82.3,157.08,Success
+1JUV,L,28,1JUV,1JUV Tequatrovirus T4 | DHFR_domain:17-187,A,A,DIHYDROFOLATE REDUCTASE,193,LEU,-105.69,147.96,Success
+1KLK,L,25,1KLK,1KLK Pneumocystis carinii | DHFR_domain:6-185,A,A,Dihydrofolate reductase,206,LEU,-109.43,117.7,Success
+1KMS,L,22,1KMS,1KMS Homo sapiens | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-73.16,150.88,Success
+1KMV,L,22,1KMV,1KMV Homo sapiens | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-72.4,149.08,Success
+1LUD,L,19,1LUD,1LUD Lacticaseibacillus casei | DHFR_domain:1-160,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-53.63,162.73,Success
+1LY3,L,25,1LY3,1LY3 Pneumocystis carinii | DHFR_domain:6-185,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-100.5,116.5,Success
+1LY4,L,25,1LY4,1LY4 Pneumocystis carinii | DHFR_domain:6-185,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-97.13,90.58,Success
+1M78,M,25,1M78,1M78 Candida albicans | DHFR_domain:6-172,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-80.38,140.24,Success
+1M79,M,25,1M79,1M79 Candida albicans | DHFR_domain:6-172,"A,B",A,dihydrofolate reductase,192,MET,-80.39,136.34,Success
+1M7A,M,25,1M7A,1M7A Candida albicans | DHFR_domain:6-172,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-83.82,136.62,Success
+1MVS,L,23,1MVS,1MVS Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate Reductase,187,LEU,-71.89,135.7,Success
+1MVT,L,23,1MVT,1MVT Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate Reductase,187,LEU,-75.63,150.31,Success
+1OHJ,L,22,1OHJ,1OHJ Homo sapiens | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-83.11,136.52,Success
+1OHK,L,22,1OHK,1OHK Homo sapiens | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-87.02,133.92,Success
+1PD8,L,22,1PD8,1PD8 Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-80.36,134.07,Success
+1PD9,L,22,1PD9,1PD9 Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-77.89,140.25,Success
+1PDB,L,22,1PDB,1PDB Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-98.57,148.4,Success
+1QZF,L,25,1QZF,1QZF Cryptosporidium hominis | DHFR_domain:5-177,"A,B,C,D,E",A,bifunctional dihydrofolate reductase-thymidylate synthase,521,LEU,-75.53,138.24,Success
+1RA1,M,20,1RA1,1RA1 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-67.97,143.27,Success
+1RA2,M,20,1RA2,1RA2 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-66.69,141.62,Success
+1RA3,M,20,1RA3,1RA3 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-59.6,141.66,Success
+1RA8,M,20,1RA8,1RA8 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-70.67,145.32,Success
+1RA9,M,20,1RA9,1RA9 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-66.18,142.67,Success
+1RB2,M,20,1RB2,1RB2 Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-58.62,139.66,Success
+1RB3,M,20,1RB3,1RB3 Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-59.15,135.84,Success
+1RC4,M,20,1RC4,1RC4 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-89.45,124.57,Success
+1RD7,M,20,1RD7,1RD7 Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-62.27,136.08,Success
+1RE7,M,20,1RE7,1RE7 Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-56.83,112.87,Success
+1RF7,M,20,1RF7,1RF7 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-93.3,126.02,Success
+1RG7,M,20,1RG7,1RG7 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-87.35,108.4,Success
+1RH3,M,20,1RH3,1RH3 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-114.12,128.74,Success
+1RX1,M,20,1RX1,1RX1 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-99.95,123.54,Success
+1RX2,M,20,1RX2,1RX2 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-110.85,113.94,Success
+1RX3,M,20,1RX3,1RX3 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-105.28,120.87,Success
+1RX4,M,20,1RX4,1RX4 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-64.8,130.97,Success
+1RX5,M,20,1RX5,1RX5 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-73.72,131.69,Success
+1RX6,M,20,1RX6,1RX6 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-76.85,128.47,Success
+1RX7,M,20,1RX7,1RX7 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-40.96,85.09,Success
+1RX8,M,20,1RX8,1RX8 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-96.88,111.2,Success
+1RX9,M,20,1RX9,1RX9 Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-101.26,100.39,Success
+1S3U,L,22,1S3U,1S3U Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-76.9,143.56,Success
+1S3V,L,22,1S3V,1S3V Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-81.45,155.73,Success
+1S3W,L,22,1S3W,1S3W Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-81.1,147.4,Success
+1S3Y,L,25,1S3Y,1S3Y Pneumocystis carinii | DHFR_domain:6-185,A,A,Dihydrofolate reductase,206,LEU,107.91,76.86,Success
+1SEJ,L,25,1SEJ,1SEJ Cryptosporidium hominis | DHFR_domain:5-177,"A,B,C,D,E",A,bifunctional dihydrofolate reductase-thymidylate synthase,521,LEU,-76.37,152.43,Success
+1TDR,M,20,1TDR,1TDR Escherichia coli | DHFR_domain:1-158,"A,B",A,TELLUROMETHIONYL DIHYDROFOLATE REDUCTASE,159,MET,-75.77,144.63,Success
+1U72,L,22,1U72,1U72 Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-79.87,155.74,Success
+1VDR,L,21,1VDR,1VDR Haloferax volcanii | DHFR_domain:2-155,"A,B",A,DIHYDROFOLATE REDUCTASE,158,LEU,-58.73,141.53,Success
+1VJ3,L,24,1VJ3,1VJ3 Pneumocystis carinii | DHFR_domain:5-184,A,A,DIHYDROFOLATE REDUCTASE,205,LEU,-86.46,123.15,Success
+1YHO,L,22,1YHO,1YHO Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-68.28,143.73,Success
+1ZDR,L,20,1ZDR,1ZDR Geobacillus stearothermophilus | DHFR_domain:1-160,"A,B",A,dihydrofolate reductase,161,LEU,-94.18,132.24,Success
+2ANO,M,20,2ANO,2ANO Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-81.5,103.92,Success
+2ANQ,M,20,2ANQ,2ANQ Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-91.59,101.51,Success
+2BL9,L,45,2BL9,2BL9 Plasmodium vivax | DHFR_domain_combined:34-64+104-237,A,A,DIHYDROFOLATE REDUCTASE-THYMIDYLATE SYNTHASE,238,LEU,-76.04,147.82,Success
+2BLA,L,45,2BLA,2BLA Plasmodium vivax | DHFR_domain_combined:34-64+104-237,A,A,DIHYDROFOLATE REDUCTASE-THYMIDYLATE SYNTHASE,238,LEU,-68.77,148.26,Success
+2BLB,L,45,2BLB,2BLB Plasmodium vivax | DHFR_domain_combined:34-64+104-237,A,A,DIHYDROFOLATE REDUCTASE-THYMIDYLATE SYNTHASE,238,LEU,-68.83,127.55,Success
+2BLC,L,45,2BLC,2BLC Plasmodium vivax | DHFR_domain_combined:34-64+104-237,A,A,DIHYDROFOLATE REDUCTASE-THYMIDYLATE SYNTHASE,238,LEU,-70.73,135.9,Success
+2C2S,L,22,2C2S,2C2S Homo sapiens | DHFR_domain:3-184,"A,B",A,DIHYDROFOLATE REDUCTASE,186,LEU,-75.97,149.54,Success
+2C2T,L,22,2C2T,2C2T Homo sapiens | DHFR_domain:3-184,"A,B",A,DIHYDROFOLATE REDUCTASE,186,LEU,-77.89,151.89,Success
+2CD2,L,25,2CD2,2CD2 Pneumocystis carinii | DHFR_domain:6-185,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-82.3,139.98,Success
+2CIG,I,20,2CIG,2CIG Mycobacterium tuberculosis H37Rv | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,ILE,-101.46,123.83,Success
+2D0K,L,20,2D0K,2D0K Escherichia coli | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,LEU,-70.11,135.14,Success
+2DHF,L,22,2DHF,2DHF Homo sapiens | DHFR_domain:3-184,"A,B",A,DIHYDROFOLATE REDUCTASE,185,LEU,-60.28,135.96,Success
+2DRC,M,20,2DRC,2DRC Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-73.95,144.85,Success
+2FZH,L,25,2FZH,2FZH Pneumocystis carinii | DHFR_domain:6-185,A,A,Dihydrofolate reductase,206,LEU,-101.46,129.27,Success
+2FZI,L,25,2FZI,2FZI Pneumocystis carinii | DHFR_domain:6-185,A,A,Dihydrofolate reductase,206,LEU,-79.11,124.35,Success
+2FZJ,L,22,2FZJ,2FZJ Mus musculus | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-76.04,147.39,Success
+2H2Q,I,41,2H2Q,2H2Q Trypanosoma cruzi | DHFR_domain:22-230,A,A,Bifunctional dihydrofolate reductase-thymidylate synthase,515,ILE,-112.96,117.92,Success
+2HM9,L,19,2HM9,2HM9 Lacticaseibacillus casei | DHFR_domain:1-160,A,A,Dihydrofolate reductase,162,LEU,-99.49,96.03,Success
+2HQP,L,19,2HQP,2HQP Lacticaseibacillus casei | DHFR_domain:1-160,A,A,Dihydrofolate reductase,162,LEU,-108.2,98.87,Success
+2INQ,M,20,2INQ,2INQ Escherichia coli K-12 | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-65.45,143.3,Success
+2ITH,L,21,2ITH,2ITH Haloferax volcanii | DHFR_domain:2-155,A,A,Dihydrofolate reductase,162,LEU,-158.43,143.26,Success
+2JYB,L,21,2JYB,2JYB Haloferax volcanii | DHFR_domain:2-155,A,A,Dihydrofolate reductase,162,LEU,-62.62,114.39,Success
+2KGK,L,21,2KGK,2KGK Bacillus anthracis | DHFR_domain:2-160,A,A,Dihydrofolate reductase,162,LEU,-84.38,150.99,Success
+2L28,L,19,2L28,2L28 Lacticaseibacillus casei | DHFR_domain:1-160,A,A,Dihydrofolate reductase,162,LEU,-54.21,135.61,Success
+2LF1,L,19,2LF1,2LF1 Lacticaseibacillus casei | DHFR_domain:1-160,A,A,Dihydrofolate reductase,162,LEU,-65.63,118.24,Success
+2OIP,L,23,2OIP,2OIP Cryptosporidium hominis | DHFR_domain:3-175,"A,B,C,D,E",A,"Chain A, crystal structure of Dhfr",519,LEU,-85.31,148.82,Success
+2QK8,L,21,2QK8,2QK8 Bacillus anthracis str. Sterne | DHFR_domain:2-160,A,A,Dihydrofolate reductase,162,LEU,-80.92,158.64,Success
+2W3A,L,23,2W3A,2W3A Homo sapiens | DHFR_domain:4-185,"A,B",A,DIHYDROFOLATE REDUCTASE,187,LEU,-73.92,148.12,Success
+2W3B,L,23,2W3B,2W3B Homo sapiens | DHFR_domain:4-185,"A,B",A,DIHYDROFOLATE REDUCTASE,186,LEU,-81.58,154.13,Success
+2W3M,L,23,2W3M,2W3M Homo sapiens | DHFR_domain:4-185,"A,B",A,DIHYDROFOLATE REDUCTASE,187,LEU,-81.52,152.42,Success
+2W3V,I,24,2W3V,2W3V Mycobacterium avium | DHFR_domain:5-166,A,A,DIHYDROFOLATE REDUCTASE,167,ILE,-76.9,118.85,Success
+2W3W,I,24,2W3W,2W3W Mycobacterium avium | DHFR_domain:5-166,A,A,DIHYDROFOLATE REDUCTASE,167,ILE,-93.4,124.93,Success
+2W9G,L,21,2W9G,2W9G Staphylococcus aureus | DHFR_domain:2-157,A,A,DIHYDROFOLATE REDUCTASE,159,LEU,-78.01,139.2,Success
+2W9H,L,21,2W9H,2W9H Staphylococcus aureus | DHFR_domain:2-157,A,A,DIHYDROFOLATE REDUCTASE,159,LEU,-69.05,127.74,Success
+2W9S,L,21,2W9S,2W9S Staphylococcus aureus | DHFR_domain:2-157,"A,B,C,D,E,F",A,DIHYDROFOLATE REDUCTASE TYPE 1 FROM TN4003,158,LEU,-76.28,138.72,Success
+2W9T,L,21,2W9T,2W9T Staphylococcus aureus | DHFR_domain:2-157,"A,B",A,DIHYDROFOLATE REDUCTASE TYPE 1,160,LEU,-49.55,132.67,Success
+2ZZA,M,21,2ZZA,2ZZA Moritella profunda | DHFR_domain:2-160,"A,B",A,Dihydrofolate reductase,161,MET,-87.62,135.65,Success
+3CD2,L,25,3CD2,3CD2 Pneumocystis carinii | DHFR_domain:6-185,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-101.88,121.71,Success
+3CL9,I,41,3CL9,3CL9 Trypanosoma cruzi | DHFR_domain:22-230,A,A,Bifunctional dihydrofolate reductase-thymidylate synthase (DHFR-TS),514,ILE,-141.75,137.81,Success
+3CLB,I,41,3CLB,3CLB Trypanosoma cruzi | DHFR_domain:22-230,"A,B,C,D",A,DHFR-TS,516,ILE,-87.34,127.82,Success
+3CSE,L,25,3CSE,3CSE Nakaseomyces glabratus | DHFR_domain:6-176,"A,B",A,Dihydrofolate reductase,227,LEU,-83.31,150.04,Success
+3D80,L,22,3D80,3D80 Mus musculus | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-80.7,154.26,Success
+3D84,L,22,3D84,3D84 Mus musculus | DHFR_domain:3-184,X,X,,186,LEU,-80.58,147.32,Success
+3DAT,L,21,3DAT,3DAT Bacillus anthracis str. Sterne | DHFR_domain:2-160,A,A,Dihydrofolate reductase,161,LEU,-66.95,139.66,Success
+3DAU,M,20,3DAU,3DAU Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-107.25,131.52,Success
+3DFR,L,19,3DFR,3DFR Lacticaseibacillus casei | DHFR_domain:1-160,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-80.23,146.55,Success
+3DL5,L,25,3DL5,3DL5 Cryptosporidium hominis | DHFR_domain:5-177,"A,B,C,D,E",A,"Dihydrofolate reductase, DHFR",521,LEU,-87.2,152.41,Success
+3DL6,L,25,3DL6,3DL6 Cryptosporidium hominis | DHFR_domain:5-177,"A,B,C,D,E",A,"Dihydrofolate reductase, DHFR",521,LEU,-64.76,139.85,Success
+3DRC,M,20,3DRC,3DRC Escherichia coli | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-72.79,143.16,Success
+3E0B,L,25,3E0B,3E0B Bacillus anthracis | DHFR_domain:6-164,"A,B",A,Dihydrofolate reductase,166,LEU,-82.07,137.31,Success
+3EEJ,L,25,3EEJ,3EEJ Nakaseomyces glabratus | DHFR_domain:6-176,"A,B",A,Dihydrofolate reductase,227,LEU,-68.05,142.19,Success
+3EEK,L,25,3EEK,3EEK Nakaseomyces glabratus | DHFR_domain:6-176,"A,B",A,Dihydrofolate reductase,227,LEU,-66.58,139.89,Success
+3EEL,L,25,3EEL,3EEL Nakaseomyces glabratus | DHFR_domain:6-176,"A,B",A,Dihydrofolate reductase,227,LEU,-64.63,136.22,Success
+3EEM,L,25,3EEM,3EEM Nakaseomyces glabratus | DHFR_domain:6-176,"A,B",A,Dihydrofolate reductase,227,LEU,-68.7,140.95,Success
+3EIG,L,22,3EIG,3EIG Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-59.06,132.92,Success
+3F0B,L,20,3F0B,3F0B Staphylococcus aureus RF122 | DHFR_domain:1-156,X,X,,157,LEU,-78.88,136.34,Success
+3F0Q,L,20,3F0Q,3F0Q Staphylococcus aureus RF122 | DHFR_domain:1-156,X,X,,157,LEU,-81.92,137.14,Success
+3F0S,L,20,3F0S,3F0S Staphylococcus aureus RF122 | DHFR_domain:1-156,X,X,,157,LEU,-79.73,130.17,Success
+3F0U,L,20,3F0U,3F0U Staphylococcus aureus RF122 | DHFR_domain:1-156,X,X,,157,LEU,-74.2,137.08,Success
+3F0V,L,20,3F0V,3F0V Staphylococcus aureus RF122 | DHFR_domain:1-156,X,X,,157,LEU,-78.42,136.08,Success
+3F0X,L,20,3F0X,3F0X Staphylococcus aureus RF122 | DHFR_domain:1-156,X,X,,157,LEU,-79.92,131.74,Success
+3F8Y,L,23,3F8Y,3F8Y Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-76.07,146.53,Success
+3F8Z,L,23,3F8Z,3F8Z Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-70.27,148.21,Success
+3F91,L,23,3F91,3F91 Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-69.97,147.05,Success
+3FL8,L,21,3FL8,3FL8 Bacillus anthracis | DHFR_domain:2-160,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-82.91,130.11,Success
+3FL9,L,21,3FL9,3FL9 Bacillus anthracis | DHFR_domain:2-160,"A,B,C,D,E,F,G,H",A,dihydrofolate reductase (DHFR),166,LEU,-79.39,140.17,Success
+3FQ0,L,20,3FQ0,3FQ0 Staphylococcus aureus RF122 | DHFR_domain:1-156,A,A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-73.55,139.81,Success
+3FQC,L,20,3FQC,3FQC Staphylococcus aureus RF122 | DHFR_domain:1-156,"A,B",A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-65.21,133.78,Success
+3FQF,L,20,3FQF,3FQF Staphylococcus aureus RF122 | DHFR_domain:1-156,A,A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-69.91,129.47,Success
+3FQO,L,20,3FQO,3FQO Staphylococcus aureus RF122 | DHFR_domain:1-156,A,A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-74.23,134.2,Success
+3FQV,L,20,3FQV,3FQV Staphylococcus aureus RF122 | DHFR_domain:1-156,A,A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-72.93,133.76,Success
+3FQZ,L,20,3FQZ,3FQZ Staphylococcus aureus RF122 | DHFR_domain:1-156,A,A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-67.5,133.24,Success
+3FRA,L,20,3FRA,3FRA Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-80.84,130.77,Success
+3FRB,L,20,3FRB,3FRB Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-72.1,135.35,Success
+3FRD,L,20,3FRD,3FRD Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-74.48,133.9,Success
+3FRE,L,20,3FRE,3FRE Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-66.85,133.5,Success
+3FRF,L,20,3FRF,3FRF Staphylococcus aureus | DHFR_domain:1-156,X,X,,158,LEU,-69.11,133.15,Success
+3FS6,L,23,3FS6,3FS6 Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-73.55,146.95,Success
+3FY8,L,20,3FY8,3FY8 Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-71.25,148.01,Success
+3FY9,L,20,3FY9,3FY9 Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-63.79,138.47,Success
+3FYV,L,20,3FYV,3FYV Staphylococcus aureus | DHFR_domain:1-156,X,X,,158,LEU,-73.86,138.42,Success
+3FYW,L,20,3FYW,3FYW Staphylococcus aureus | DHFR_domain:1-156,X,X,,158,LEU,-72.51,134.18,Success
+3GHC,L,22,3GHC,3GHC Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-77.7,155.3,Success
+3GHV,L,22,3GHV,3GHV Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-79.4,154.11,Success
+3GHW,L,22,3GHW,3GHW Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-79.21,153.41,Success
+3GI2,L,23,3GI2,3GI2 Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-74.31,156.66,Success
+3GYF,L,23,3GYF,3GYF Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-72.99,152.4,Success
+3HBB,I,41,3HBB,3HBB Trypanosoma cruzi | DHFR_domain:22-230,"A,B,C,D",A,Dihydrofolate reductase-thymidylate synthase,516,ILE,-85.65,127.01,Success
+3I8A,L,20,3I8A,3I8A Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-83.59,137.04,Success
+3IA4,M,21,3IA4,3IA4 Moritella profunda | DHFR_domain:2-160,"A,B,C,D",A,Dihydrofolate reductase,161,MET,-101.59,130.35,Success
+3IA5,M,21,3IA5,3IA5 Moritella profunda | DHFR_domain:2-160,"A,B",A,Dihydrofolate reductase,161,MET,-73.91,121.47,Success
+3INV,I,41,3INV,3INV Trypanosoma cruzi | DHFR_domain:22-230,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,515,ILE,-97.36,120.87,Success
+3IRM,I,41,3IRM,3IRM Trypanosoma cruzi | DHFR_domain:22-230,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,520,ILE,-144.9,84.72,Success
+3IRN,I,41,3IRN,3IRN Trypanosoma cruzi | DHFR_domain:22-230,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,516,ILE,-114.22,103.49,Success
+3IRO,I,41,3IRO,3IRO Trypanosoma cruzi | DHFR_domain:22-230,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,518,ILE,-95.63,95.71,Success
+3IX9,L,43,3IX9,3IX9 Streptococcus pneumoniae | DHFR_domain:24-185,"A,B",A,Dihydrofolate reductase,187,LEU,-97.83,127.35,Success
+3JSU,L,46,3JSU,3JSU Plasmodium falciparum | DHFR_domain_combined:32-66+89-228,"A,B",A,Dihydrofolate reductase-thymidylate synthase,606,LEU,-71.71,138.58,Success
+3JVX,L,27,3JVX,3JVX Bacillus anthracis | DHFR_domain:8-166,"A,B",A,Dihydrofolate reductase,168,LEU,-82.39,136.75,Success
+3JW3,L,27,3JW3,3JW3 Bacillus anthracis | DHFR_domain:8-166,"A,B",A,Dihydrofolate reductase,168,LEU,-58.69,122.05,Success
+3JW5,L,27,3JW5,3JW5 Bacillus anthracis | DHFR_domain:8-166,"A,B",A,Dihydrofolate reductase,168,LEU,-65.68,134.31,Success
+3JWC,L,27,3JWC,3JWC Bacillus anthracis | DHFR_domain:8-166,"A,B",A,Dihydrofolate reductase,168,LEU,-75.54,138.62,Success
+3JWF,L,27,3JWF,3JWF Bacillus anthracis | DHFR_domain:8-166,"A,B",A,Dihydrofolate reductase,168,LEU,-80.41,130.93,Success
+3JWK,L,27,3JWK,3JWK Bacillus anthracis | DHFR_domain:8-166,"A,B",A,Dihydrofolate reductase,168,LEU,-78.46,132.17,Success
+3JWM,L,27,3JWM,3JWM Bacillus anthracis | DHFR_domain:8-166,"A,B",A,Dihydrofolate reductase,168,LEU,-79.37,133.31,Success
+3K45,L,22,3K45,3K45 Mus musculus | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-82.18,149.44,Success
+3K47,L,22,3K47,3K47 Mus musculus | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-71.92,147.41,Success
+3KFY,M,20,3KFY,3KFY Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-89.63,119.38,Success
+3KJS,I,41,3KJS,3KJS Trypanosoma cruzi | DHFR_domain:22-230,"A,B,C,D",A,Dihydrofolate reductase-thymidylate synthase,515,ILE,-98.27,117.86,Success
+3L3R,L,22,3L3R,3L3R Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-73.8,146.13,Success
+3LG4,L,21,3LG4,3LG4 Staphylococcus aureus | DHFR_domain:2-157,"A,B",A,Dihydrofolate reductase,158,LEU,-65.82,129.26,Success
+3M08,L,20,3M08,3M08 Staphylococcus aureus | DHFR_domain:1-156,A,A,Dihydrofolate reductase,161,LEU,-69.5,135.94,Success
+3M09,L,20,3M09,3M09 Staphylococcus aureus | DHFR_domain:1-156,A,A,Dihydrofolate reductase,161,LEU,-72.66,137.89,Success
+3N0H,L,22,3N0H,3N0H Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-69.45,139.0,Success
+3NTZ,L,22,3NTZ,3NTZ Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-76.06,155.14,Success
+3NU0,L,22,3NU0,3NU0 Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reducatase,186,LEU,-77.95,157.83,Success
+3NXO,L,22,3NXO,3NXO Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-95.1,131.84,Success
+3NXR,L,22,3NXR,3NXR Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-74.17,153.56,Success
+3NXT,L,22,3NXT,3NXT Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-71.26,153.47,Success
+3NXV,L,22,3NXV,3NXV Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-76.13,143.69,Success
+3NXX,L,22,3NXX,3NXX Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-79.37,152.04,Success
+3NXY,L,22,3NXY,3NXY Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-76.13,143.7,Success
+3NZ6,L,25,3NZ6,3NZ6 Pneumocystis carinii | DHFR_domain:6-185,X,X,,206,LEU,-86.29,128.78,Success
+3NZ9,L,25,3NZ9,3NZ9 Pneumocystis carinii | DHFR_domain:6-185,X,X,,206,LEU,-87.85,129.93,Success
+3NZA,L,25,3NZA,3NZA Pneumocystis carinii | DHFR_domain:6-185,X,X,,206,LEU,-87.41,139.65,Success
+3NZB,L,25,3NZB,3NZB Pneumocystis carinii | DHFR_domain:6-185,X,X,,206,LEU,-88.46,136.06,Success
+3NZC,L,25,3NZC,3NZC Pneumocystis carinii | DHFR_domain:6-185,X,X,,206,LEU,-111.55,124.12,Success
+3NZD,L,22,3NZD,3NZD Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-70.58,149.34,Success
+3OAF,L,22,3OAF,3OAF Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-70.58,137.25,Success
+3OCH,M,20,3OCH,3OCH Escherichia coli K-12 | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-71.34,146.04,Success
+3Q1H,M,24,3Q1H,3Q1H Yersinia pestis CO92 | DHFR_domain:5-162,A,A,Dihydrofolate reductase,163,MET,-83.78,118.51,Success
+3QFX,I,47,3QFX,3QFX Trypanosoma brucei rhodesiense | DHFR_domain:28-202,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,241,ILE,-90.95,123.84,Success
+3QG2,L,46,3QG2,3QG2 Plasmodium falciparum | DHFR_domain_combined:32-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-74.12,152.58,Success
+3QGT,L,46,3QGT,3QGT Plasmodium falciparum | DHFR_domain_combined:33-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-75.85,141.53,Success
+3QL0,M,20,3QL0,3QL0 Escherichia coli UTI89 | DHFR_domain:1-159,A,A,Dihydrofolate reductase,160,MET,-71.53,145.89,Success
+3QL3,M,20,3QL3,3QL3 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-112.91,118.62,Success
+3QLR,M,25,3QLR,3QLR Candida albicans | DHFR_domain:6-172,"A,B",A,Putative uncharacterized protein CaJ7.0360,192,MET,-75.85,139.89,Success
+3QLS,M,25,3QLS,3QLS Candida albicans | DHFR_domain:6-172,"A,B",A,Putative uncharacterized protein CaJ7.0360,192,MET,-91.29,137.55,Success
+3QLW,M,25,3QLW,3QLW Candida albicans | DHFR_domain:6-172,"A,B",A,Putative uncharacterized protein CaJ7.0360,192,MET,-87.7,130.93,Success
+3QLX,L,25,3QLX,3QLX Nakaseomyces glabratus | DHFR_domain:6-176,"A,B",A,Dihydrofolate reductase,227,LEU,-65.61,142.96,Success
+3QLY,L,25,3QLY,3QLY Nakaseomyces glabratus | DHFR_domain:6-176,"A,B",A,Strain CBS138 chromosome J complete sequence,227,LEU,-76.95,142.81,Success
+3QLZ,L,25,3QLZ,3QLZ Nakaseomyces glabratus | DHFR_domain:6-176,"A,B",A,Strain CBS138 chromosome J complete sequence,227,LEU,-67.96,145.31,Success
+3QYL,M,20,3QYL,3QYL Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-114.77,92.42,Success
+3QYO,M,20,3QYO,3QYO Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-104.71,99.56,Success
+3R33,M,20,3R33,3R33 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-107.79,100.44,Success
+3RG9,I,47,3RG9,3RG9 Trypanosoma brucei rhodesiense | DHFR_domain:28-202,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,240,ILE,-98.48,124.84,Success
+3RO9,L,23,3RO9,3RO9 Nakaseomyces glabratus | DHFR_domain:4-174,"A,B",A,Strain CBS138 chromosome J complete sequence,225,LEU,-83.08,143.6,Success
+3ROA,L,23,3ROA,3ROA Nakaseomyces glabratus | DHFR_domain:4-174,"A,B",A,Strain CBS138 chromosome J complete sequence,225,LEU,-70.66,145.97,Success
+3S3V,L,22,3S3V,3S3V Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-62.14,138.25,Success
+3S7A,L,22,3S7A,3S7A Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-69.05,150.12,Success
+3S9U,L,24,3S9U,3S9U Bacillus anthracis | DHFR_domain:5-163,"A,B",A,Dihydrofolate reductase,165,LEU,-80.53,139.5,Success
+3SA1,L,24,3SA1,3SA1 Bacillus anthracis | DHFR_domain:5-163,"A,B",A,Dihydrofolate reductase,165,LEU,-81.06,136.15,Success
+3SA2,L,24,3SA2,3SA2 Bacillus anthracis | DHFR_domain:5-163,"A,B",A,Dihydrofolate reductase,165,LEU,-84.38,135.62,Success
+3SAI,L,24,3SAI,3SAI Bacillus anthracis | DHFR_domain:5-163,"A,B",A,Dihydrofolate reductase,165,LEU,-83.12,137.66,Success
+3SGY,L,20,3SGY,3SGY Staphylococcus aureus | DHFR_domain:1-156,"A,B",A,Dihydrofolate reductase,157,LEU,-82.35,134.06,Success
+3SH2,L,20,3SH2,3SH2 Staphylococcus aureus | DHFR_domain:1-156,"A,B",A,Dihydrofolate reductase,157,LEU,-69.64,131.95,Success
+3SQY,L,21,3SQY,3SQY Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-78.34,143.24,Success
+3SR5,L,20,3SR5,3SR5 Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-78.36,137.34,Success
+3SRQ,L,21,3SRQ,3SRQ Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-74.13,142.47,Success
+3SRR,L,21,3SRR,3SRR Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-71.89,141.05,Success
+3SRS,L,21,3SRS,3SRS Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-72.36,141.49,Success
+3SRU,L,21,3SRU,3SRU Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-69.47,139.86,Success
+3SRW,L,21,3SRW,3SRW Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-71.29,140.38,Success
+3TD8,L,25,3TD8,3TD8 Pneumocystis carinii | DHFR_domain:6-185,A,A,Dihydrofolate reductase,206,LEU,-82.98,130.19,Success
+3TQ8,L,21,3TQ8,3TQ8 Coxiella burnetii | DHFR_domain:2-160,A,A,Dihydrofolate reductase,173,LEU,-68.44,144.85,Success
+3TQ9,L,21,3TQ9,3TQ9 Coxiella burnetii | DHFR_domain:2-160,A,A,Dihydrofolate reductase,160,LEU,-89.16,152.53,Success
+3TQA,L,21,3TQA,3TQA Coxiella burnetii | DHFR_domain:2-160,A,A,Dihydrofolate reductase,160,LEU,-82.79,139.15,Success
+3TQB,L,21,3TQB,3TQB Coxiella burnetii | DHFR_domain:2-160,A,A,Dihydrofolate reductase,160,LEU,-76.86,132.12,Success
+3UM5,L,46,3UM5,3UM5 Plasmodium falciparum | DHFR_domain_combined:33-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-79.55,139.66,Success
+3UM6,L,46,3UM6,3UM6 Plasmodium falciparum | DHFR_domain_combined:33-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-81.52,140.42,Success
+3UM8,L,46,3UM8,3UM8 Plasmodium falciparum | DHFR_domain_combined:33-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-70.28,137.54,Success
+3VCO,L,41,3VCO,3VCO Schistosoma mansoni | DHFR_domain:22-199,A,A,Dihydrofolate reductase,201,LEU,-73.45,138.6,Success
+4CD2,L,25,4CD2,4CD2 Pneumocystis carinii | DHFR_domain:6-185,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,52.15,58.63,Success
+4DDR,L,22,4DDR,4DDR Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-79.64,146.96,Success
+4DFR,M,20,4DFR,4DFR Escherichia coli B | DHFR_domain:1-158,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-69.44,141.83,Success
+4DP3,L,46,4DP3,4DP3 Plasmodium falciparum VS/1 | DHFR_domain_combined:32-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,606,LEU,-70.4,145.9,Success
+4DPD,L,46,4DPD,4DPD Plasmodium falciparum | DHFR_domain_combined:33-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,605,LEU,-75.22,141.74,Success
+4DPH,L,46,4DPH,4DPH Plasmodium falciparum VS/1 | DHFR_domain_combined:32-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-73.62,148.09,Success
+4ECK,L,23,4ECK,4ECK Toxoplasma gondii | DHFR_domain_combined:4-44+72-212,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,610,LEU,-127.85,138.54,Success
+4EIL,L,23,4EIL,4EIL Toxoplasma gondii | DHFR_domain:4-191,"A,B,C,D,E,F,G,H",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-86.28,151.48,Success
+4ELB,L,21,4ELB,4ELB Bacillus anthracis str. Sterne | DHFR_domain:2-160,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-72.91,128.31,Success
+4ELE,L,21,4ELE,4ELE Bacillus anthracis str. Sterne | DHFR_domain:2-160,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-80.58,116.63,Success
+4ELF,L,21,4ELF,4ELF Bacillus anthracis str. Sterne | DHFR_domain:2-160,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-78.14,131.69,Success
+4ELG,L,21,4ELG,4ELG Bacillus anthracis str. Sterne | DHFR_domain:2-160,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-81.53,137.49,Success
+4ELH,L,21,4ELH,4ELH Bacillus anthracis str. Sterne | DHFR_domain:2-160,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-77.21,128.48,Success
+4FGG,L,21,4FGG,4FGG Staphylococcus aureus | DHFR_domain:2-157,A,A,Dihydrofolate reductase,163,LEU,-75.49,138.93,Success
+4FGH,L,21,4FGH,4FGH Staphylococcus aureus | DHFR_domain:2-157,A,A,Dihydrofolate reductase,163,LEU,-66.23,138.01,Success
+4G8Z,L,23,4G8Z,4G8Z Pneumocystis jirovecii | DHFR_domain:4-183,X,X,,204,LEU,-81.89,131.05,Success
+4G95,L,22,4G95,4G95 Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-73.01,146.99,Success
+4GH8,M,20,4GH8,4GH8 Escherichia coli K-12 | DHFR_domain:1-162,"A,B",A,Dihydrofolate reductase,162,MET,-89.86,125.99,Success
+4H95,M,22,4H95,4H95 Candida albicans | DHFR_domain:3-169,"A,B",A,Dihydrofolate Reductase,189,MET,-76.04,134.24,Success
+4H96,M,22,4H96,4H96 Candida albicans | DHFR_domain:3-169,"A,B",A,Dihydrofolate Reductase,189,MET,-69.05,133.82,Success
+4H97,M,23,4H97,4H97 Candida albicans | DHFR_domain:4-170,"A,B",A,Dihydrofolate Reductase,190,MET,-75.56,134.71,Success
+4H98,L,22,4H98,4H98 Nakaseomyces glabratus CBS 138 | DHFR_domain:3-173,"A,B",A,Dihydrofolate Reductase,224,LEU,-73.13,134.44,Success
+4HOE,M,25,4HOE,4HOE Candida albicans | DHFR_domain:6-172,"A,B",A,Dihydrofolate reductase,192,MET,-84.49,138.64,Success
+4HOF,M,25,4HOF,4HOF Candida albicans | DHFR_domain:6-172,"A,B",A,Dihydrofolate reductase,192,MET,-77.92,143.44,Success
+4HOG,L,25,4HOG,4HOG Nakaseomyces glabratus CBS 138 | DHFR_domain:6-176,"A,B",A,Dihydrofolate Reductase,227,LEU,-68.6,146.78,Success
+4IXE,L,25,4IXE,4IXE Pneumocystis carinii | DHFR_domain:6-185,D,D,water,206,LEU,-99.14,125.53,Success
+4IXF,L,25,4IXF,4IXF Pneumocystis carinii | DHFR_domain:6-185,X,X,,206,LEU,-96.92,137.62,Success
+4IXG,L,25,4IXG,4IXG Pneumocystis carinii | DHFR_domain:6-185,X,X,,206,LEU,-81.82,142.87,Success
+4KAK,L,22,4KAK,4KAK Homo sapiens | DHFR_domain:3-184,"A,B",A,Dihydrofolate reductase,186,LEU,-81.26,148.59,Success
+4KBN,L,22,4KBN,4KBN Homo sapiens | DHFR_domain:3-184,"A,B",A,Dihydrofolate reductase,186,LEU,-74.99,149.32,Success
+4KD7,L,22,4KD7,4KD7 Homo sapiens | DHFR_domain:3-184,"A,B",A,Dihydrofolate reductase,186,LEU,-76.57,143.49,Success
+4KEB,L,22,4KEB,4KEB Homo sapiens | DHFR_domain:3-184,"A,B",A,Dihydrofolate reductase,186,LEU,-76.52,151.89,Success
+4KFJ,L,22,4KFJ,4KFJ Homo sapiens | DHFR_domain:3-184,"A,B",A,Dihydrofolate reductase,186,LEU,-78.49,152.17,Success
+4KJJ,M,20,4KJJ,4KJJ Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-101.92,116.14,Success
+4KJK,M,20,4KJK,4KJK Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-101.96,106.43,Success
+4KJL,M,20,4KJL,4KJL Escherichia coli K-12 | DHFR_domain:1-159,A,A,Dihydrofolate reductase,160,MET,-102.9,124.99,Success
+4KL9,I,40,4KL9,4KL9 Mycobacterium tuberculosis | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-102.07,125.38,Success
+4KLX,I,40,4KLX,4KLX Mycobacterium tuberculosis | DHFR_domain:21-178,"A,B",A,Dihydrofolate reductase,179,ILE,-72.21,132.74,Success
+4KM0,I,40,4KM0,4KM0 Mycobacterium tuberculosis | DHFR_domain:21-178,"A,B",A,Dihydrofolate reductase,179,ILE,-66.71,127.81,Success
+4KM2,I,40,4KM2,4KM2 Mycobacterium tuberculosis | DHFR_domain:21-178,"A,B",A,Dihydrofolate reductase,179,ILE,-64.82,122.24,Success
+4KNE,I,40,4KNE,4KNE Mycobacterium tuberculosis | DHFR_domain:21-178,"A,B",A,Dihydrofolate reductase,179,ILE,-65.84,124.21,Success
+4KY4,L,23,4KY4,4KY4 Toxoplasma gondii | DHFR_domain_combined:4-44+72-212,"A,B,C,D,E,F,G,H",A,Bifunctional dihydrofolate reductase-thymidylate synthase,610,LEU,-91.5,143.65,Success
+4KY8,L,25,4KY8,4KY8 Cryptosporidium hominis | DHFR_domain:5-177,"A,B,C,D,E",A,Bifunctional thymidylate synthase-dihydrofolate reductase,521,LEU,-77.23,141.34,Success
+4KYA,L,23,4KYA,4KYA Toxoplasma gondii | DHFR_domain:4-191,"A,B,C,D,E,F,G,H",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-86.24,142.55,Success
+4LAE,L,21,4LAE,4LAE Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-68.71,139.21,Success
+4LAG,L,21,4LAG,4LAG Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-71.22,137.24,Success
+4LAH,L,21,4LAH,4LAH Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-69.55,134.65,Success
+4LEK,L,21,4LEK,4LEK Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-70.05,136.2,Success
+4M2X,I,23,4M2X,4M2X Mycobacterium tuberculosis | DHFR_domain:4-161,"A,C,E,G",A,Dihydrofolate reductase,162,ILE,-104.51,132.17,Success
+4M6J,L,23,4M6J,4M6J Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-74.17,148.29,Success
+4M6K,L,23,4M6K,4M6K Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-75.85,154.35,Success
+4M6L,L,23,4M6L,4M6L Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-69.77,152.77,Success
+4M7U,L,28,4M7U,4M7U Enterococcus faecalis V583 | DHFR_domain:9-169,A,A,Dihydrofolate reductase,170,LEU,-83.57,132.82,Success
+4M7V,L,28,4M7V,4M7V Enterococcus faecalis V583 | DHFR_domain:9-169,A,A,Dihydrofolate reductase,171,LEU,-78.78,128.8,Success
+4NX6,M,20,4NX6,4NX6 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-110.91,105.03,Success
+4NX7,M,20,4NX7,4NX7 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-105.3,113.92,Success
+4OR7,M,20,4OR7,4OR7 Klebsiella pneumoniae CG43 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,165,MET,-106.96,126.74,Success
+4OSG,M,20,4OSG,4OSG Klebsiella pneumoniae CG43 | DHFR_domain:1-158,"A,B,C,D",A,Dihydrofolate reductase,159,MET,-118.54,119.72,Success
+4P3Q,M,20,4P3Q,4P3Q Escherichia coli str. K-12 substr. DH10B | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-105.83,110.16,Success
+4P3R,M,20,4P3R,4P3R Escherichia coli str. K-12 substr. DH10B | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-115.4,108.41,Success
+4P66,M,20,4P66,4P66 Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-109.65,108.03,Success
+4P68,M,20,4P68,4P68 Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-106.62,127.93,Success
+4PDJ,M,20,4PDJ,4PDJ Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-111.39,113.9,Success
+4PTH,M,20,4PTH,4PTH Escherichia coli str. K-12 substr. DH10B | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-79.97,121.53,Success
+4PTJ,M,20,4PTJ,4PTJ Escherichia coli str. K-12 substr. DH10B | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-24.17,93.69,Success
+4Q0D,L,25,4Q0D,4Q0D Cryptosporidium hominis | DHFR_domain:5-177,"A,B,C,D,E",A,Bifunctional dihydrofolate reductase-thymidylate synthase,521,LEU,-86.73,138.83,Success
+4Q0E,L,25,4Q0E,4Q0E Cryptosporidium hominis | DHFR_domain:5-177,"A,B,C,D,E",A,Bifunctional dihydrofolate reductase-thymidylate synthase,521,LEU,-76.96,141.44,Success
+4Q67,L,21,4Q67,4Q67 Staphylococcus aureus MUF168 | DHFR_domain:2-157,A,A,Dihydrofolate reductase,158,LEU,-70.92,141.93,Success
+4Q6A,L,21,4Q6A,4Q6A Staphylococcus aureus MUF168 | DHFR_domain:2-157,A,A,Dihydrofolate reductase,158,LEU,-72.55,141.07,Success
+4QHV,L,22,4QHV,4QHV Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-76.18,149.33,Success
+4QJC,L,22,4QJC,4QJC Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-74.28,153.3,Success
+4QJZ,L,25,4QJZ,4QJZ Pneumocystis carinii | DHFR_domain:6-185,D,D,water,206,LEU,-76.5,143.77,Success
+4QLE,M,20,4QLE,4QLE Escherichia coli str. K-12 substr. MC4100 | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-63.35,143.24,Success
+4QLF,M,20,4QLF,4QLF Escherichia coli str. K-12 substr. MC4100 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-153.52,78.45,Success
+4QLG,M,20,4QLG,4QLG Escherichia coli str. K-12 substr. MC4100 | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-65.49,138.03,Success
+4RGC,M,20,4RGC,4RGC Escherichia coli str. K-12 substr. MC4100 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-115.33,100.41,Success
+4TU5,L,20,4TU5,4TU5 Staphylococcus aureus RF122 | DHFR_domain:1-156,X,X,,157,LEU,-75.24,142.55,Success
+4X5F,M,23,4X5F,4X5F Escherichia coli K-12 | DHFR_domain:4-161,"A,B",A,Dihydrofolate reductase,162,MET,-65.3,144.65,Success
+4X5G,M,23,4X5G,4X5G Escherichia coli K-12 | DHFR_domain:4-161,"A,B",A,Dihydrofolate reductase,162,MET,-67.71,142.91,Success
+4X5H,M,23,4X5H,4X5H Escherichia coli K-12 | DHFR_domain:4-161,A,A,Dihydrofolate reductase,162,MET,-55.59,137.06,Success
+4X5I,M,23,4X5I,4X5I Escherichia coli K-12 | DHFR_domain:4-161,A,A,Dihydrofolate reductase,162,MET,-60.83,137.37,Success
+4X5J,M,23,4X5J,4X5J Escherichia coli K-12 | DHFR_domain:4-161,A,A,Dihydrofolate reductase,162,MET,-65.38,141.56,Success
+4XE6,L,21,4XE6,4XE6 Staphylococcus aureus | DHFR_domain:2-157,X,X,,158,LEU,-71.77,133.87,Success
+4XEC,L,20,4XEC,4XEC Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-71.77,133.87,Success
+5CC9,M,20,5CC9,5CC9 Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-111.11,97.2,Success
+5CCC,M,20,5CCC,5CCC Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-80.47,110.35,Success
+5E8Q,M,20,5E8Q,5E8Q Escherichia coli | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-74.91,149.48,Success
+5EAJ,M,20,5EAJ,5EAJ Escherichia coli | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-73.9,145.91,Success
+5ECC,I,21,5ECC,5ECC Klebsiella pneumoniae | DHFR_domain:2-156,"A,B",A,Dehydrofolate reductase type I,157,ILE,-91.04,115.12,Success
+5ECX,I,21,5ECX,5ECX Klebsiella pneumoniae | DHFR_domain:2-156,"A,B",A,Dehydrofolate reductase type I,157,ILE,-94.03,114.94,Success
+5FDA,M,24,5FDA,5FDA Yersinia pestis CO92 | DHFR_domain:5-162,A,A,Dihydrofolate reductase,163,MSE,-85.68,119.25,Success
+5HF0,L,20,5HF0,5HF0 Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-78.99,135.85,Success
+5HF2,L,20,5HF2,5HF2 Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-71.47,131.16,Success
+5HI6,M,24,5HI6,5HI6 Yersinia pestis CO92 | DHFR_domain:5-162,"A,B",A,Dihydrofolate reductase,163,MSE,-63.34,135.62,Success
+5HPB,L,22,5HPB,5HPB Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-80.7,151.55,Success
+5HQY,L,22,5HQY,5HQY Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-76.57,160.02,Success
+5HQZ,L,22,5HQZ,5HQZ Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-73.39,154.99,Success
+5HSR,L,22,5HSR,5HSR Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-70.38,154.51,Success
+5HSU,L,22,5HSU,5HSU Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-77.62,154.83,Success
+5HT4,L,22,5HT4,5HT4 Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-71.12,146.09,Success
+5HT5,L,22,5HT5,5HT5 Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-75.69,146.3,Success
+5HUI,L,22,5HUI,5HUI Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-74.7,158.04,Success
+5HVB,L,22,5HVB,5HVB Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-75.34,156.86,Success
+5HVE,L,22,5HVE,5HVE Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-58.96,145.1,Success
+5ISP,L,20,5ISP,5ISP Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-75.89,140.77,Success
+5ISQ,L,20,5ISQ,5ISQ Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-76.27,139.75,Success
+5IST,L,20,5IST,5IST Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-73.83,137.15,Success
+5JA3,I,20,5JA3,5JA3 Mycobacterium tuberculosis | DHFR_domain:1-158,"A,B,C,D",A,Dihydrofolate reductase,159,ILE,-81.16,119.02,Success
+5JG0,L,20,5JG0,5JG0 Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-73.43,138.9,Success
+5SCM,I,40,5SCM,5SCM Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-91.33,125.37,Success
+5SCN,I,40,5SCN,5SCN Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-99.7,125.25,Success
+5SCO,I,40,5SCO,5SCO Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-86.9,127.51,Success
+5SCP,I,40,5SCP,5SCP Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,"A,B",A,Dihydrofolate reductase,179,ILE,-97.54,124.44,Success
+5SCQ,I,40,5SCQ,5SCQ Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-96.57,125.1,Success
+5SCR,I,40,5SCR,5SCR Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-91.47,122.69,Success
+5SCS,I,40,5SCS,5SCS Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-96.77,123.71,Success
+5SCT,I,40,5SCT,5SCT Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-87.13,127.27,Success
+5SCU,I,40,5SCU,5SCU Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-96.36,127.23,Success
+5SCV,I,40,5SCV,5SCV Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,"A,B",A,Dihydrofolate reductase,179,ILE,-100.02,126.64,Success
+5SCW,I,40,5SCW,5SCW Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-92.72,123.79,Success
+5SCX,I,40,5SCX,5SCX Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-95.29,127.85,Success
+5SCY,I,40,5SCY,5SCY Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-96.56,126.06,Success
+5SCZ,I,40,5SCZ,5SCZ Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-91.33,127.39,Success
+5SD0,I,40,5SD0,5SD0 Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-94.6,125.87,Success
+5SD1,I,40,5SD1,5SD1 Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-96.92,124.75,Success
+5SD2,I,40,5SD2,5SD2 Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-101.15,123.25,Success
+5SD3,I,40,5SD3,5SD3 Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-95.96,126.01,Success
+5SD4,I,40,5SD4,5SD4 Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-90.43,127.08,Success
+5SD5,I,40,5SD5,5SD5 Mycobacterium tuberculosis H37Rv | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-100.86,126.91,Success
+5SD6,L,23,5SD6,5SD6 Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-68.64,149.44,Success
+5SD7,L,23,5SD7,5SD7 Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-73.59,152.11,Success
+5SD8,L,23,5SD8,5SD8 Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-72.45,148.27,Success
+5SD9,L,23,5SD9,5SD9 Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-72.67,150.49,Success
+5SDA,L,23,5SDA,5SDA Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-73.07,151.92,Success
+5SDB,L,23,5SDB,5SDB Homo sapiens | DHFR_domain:4-185,"A,B",A,Dihydrofolate reductase,187,LEU,-78.3,151.25,Success
+5SSS,M,20,5SSS,5SSS Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.99,93.99,Success
+5SST,M,20,5SST,5SST Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-112.76,96.76,Success
+5SSU,M,20,5SSU,5SSU Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-111.74,101.96,Success
+5SSV,M,20,5SSV,5SSV Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-112.64,101.71,Success
+5SSW,M,20,5SSW,5SSW Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-114.32,96.69,Success
+5T0L,L,23,5T0L,5T0L Toxoplasma gondii | DHFR_domain:4-191,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-85.52,139.16,Success
+5U26,I,40,5U26,5U26 Mycobacterium tuberculosis | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-101.5,125.62,Success
+5U27,I,40,5U27,5U27 Mycobacterium tuberculosis | DHFR_domain:21-178,A,A,Dihydrofolate reductase,179,ILE,-101.9,121.2,Success
+5UIH,M,20,5UIH,5UIH Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-63.56,143.75,Success
+5UII,M,20,5UII,5UII Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-67.53,144.29,Success
+5UIO,M,21,5UIO,5UIO Escherichia coli | DHFR_domain:2-159,"A,B,C,D,E",A,Dihydrofolate reductase,160,MET,-65.02,137.71,Success
+5UIP,M,20,5UIP,5UIP Escherichia coli | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-65.34,141.09,Success
+5UJF,I,41,5UJF,5UJF Mycobacterium tuberculosis H37Rv | DHFR_domain:22-179,A,A,Dihydrofolate reductase,180,ILE,-133.59,113.05,Success
+5UJX,M,20,5UJX,5UJX Escherichia coli | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-72.91,148.23,Success
+5W3Q,M,20,5W3Q,5W3Q Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-101.0,111.4,Success
+5Z6F,M,23,5Z6F,5Z6F Escherichia coli K-12 | DHFR_domain:4-161,A,A,Dihydrofolate reductase,162,MET,-101.4,111.33,Success
+5Z6J,M,23,5Z6J,5Z6J Escherichia coli K-12 | DHFR_domain:4-161,A,A,Dihydrofolate reductase,162,MET,-92.6,119.74,Success
+5Z6K,M,23,5Z6K,5Z6K Escherichia coli K-12 | DHFR_domain:4-161,A,A,Dihydrofolate reductase,162,MET,-80.95,124.83,Success
+5Z6L,M,23,5Z6L,5Z6L Escherichia coli K-12 | DHFR_domain:4-161,A,A,Dihydrofolate reductase,162,MET,-74.11,125.91,Success
+5Z6M,M,23,5Z6M,5Z6M Escherichia coli K-12 | DHFR_domain:4-161,A,A,Dihydrofolate reductase,162,MET,-158.06,92.06,Success
+6A7C,L,22,6A7C,6A7C Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-75.22,143.06,Success
+6A7E,L,22,6A7E,6A7E Homo sapiens | DHFR_domain:3-184,A,A,Dihydrofolate reductase,186,LEU,-75.44,151.04,Success
+6AOG,L,23,6AOG,6AOG Toxoplasma gondii | DHFR_domain:4-191,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-84.61,134.74,Success
+6AOH,L,23,6AOH,6AOH Toxoplasma gondii | DHFR_domain:4-191,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-75.61,141.73,Success
+6AOI,L,23,6AOI,6AOI Toxoplasma gondii | DHFR_domain:4-191,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-93.42,135.4,Success
+6CQA,M,20,6CQA,6CQA Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-58.57,140.98,Success
+6CW7,M,20,6CW7,6CW7 Escherichia coli CFT073 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,162,MET,-71.76,151.46,Success
+6CXK,M,20,6CXK,6CXK Escherichia coli CFT073 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,165,MET,-84.82,159.09,Success
+6CXM,I,29,6CXM,6CXM Mycolicibacterium smegmatis MC2 155 | DHFR_domain:10-164,"A,B",A,Dihydrofolate reductase,164,ILE,-97.88,128.61,Success
+6DAV,L,23,6DAV,6DAV Homo sapiens | DHFR_domain:4-185,"A,B",A,Dihydrofolate reductase,187,LEU,-78.3,151.25,Success
+6DDP,I,20,6DDP,6DDP Mycobacterium tuberculosis H37Rv | DHFR_domain:1-158,"A,B,C,D",A,Dihydrofolate reductase,159,ILE,-88.56,121.01,Success
+6DDS,I,20,6DDS,6DDS Mycobacterium tuberculosis H37Rv | DHFR_domain:1-158,"A,B,C,D",A,Dihydrofolate reductase,159,ILE,-85.36,116.81,Success
+6DDW,I,22,6DDW,6DDW Mycobacterium tuberculosis H37Rv | DHFR_domain:3-160,A,A,Dihydrofolate reductase,161,ILE,-101.68,120.51,Success
+6DE4,L,22,6DE4,6DE4 Homo sapiens | DHFR_domain:3-184,"A,B",A,Dihydrofolate reductase,186,LEU,-66.1,144.69,Success
+6DRS,L,32,6DRS,6DRS Aspergillus flavus NRRL3357 | DHFR_domain_combined:13-222,A,A,"Dihydrofolate reductase, putative",247,LEU,-80.23,161.09,Success
+6DTC,L,32,6DTC,6DTC Aspergillus flavus NRRL3357 | DHFR_domain_combined:13-222,A,A,Dihydrofolate reductase,247,LEU,-84.67,155.28,Success
+6E4E,L,44,6E4E,6E4E Staphylococcus aureus | DHFR_domain:25-180,A,A,Dihydrofolate reductase,182,LEU,-82.53,135.72,Success
+6MR9,M,20,6MR9,6MR9 Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,162,MET,,120.62,Success
+6MT8,M,20,6MT8,6MT8 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,162,MET,,120.62,Success
+6MTH,M,20,6MTH,6MTH Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,162,MET,,120.62,Success
+6N1S,L,23,6N1S,6N1S Toxoplasma gondii | DHFR_domain:4-191,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-85.93,149.89,Success
+6N1T,L,23,6N1T,6N1T Toxoplasma gondii | DHFR_domain:4-191,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-75.61,141.73,Success
+6ND2,L,20,6ND2,6ND2 Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-75.2,130.34,Success
+6NNC,I,20,6NNC,6NNC Mycobacterium tuberculosis H37Rv | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,ILE,-126.75,131.32,Success
+6NND,I,20,6NND,6NND Mycobacterium tuberculosis H37Rv | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,ILE,-122.91,129.56,Success
+6NNE,I,20,6NNE,6NNE Mycobacterium tuberculosis H37Ra | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,ILE,-123.07,130.3,Success
+6NNH,I,20,6NNH,6NNH Mycobacterium tuberculosis H37Rv | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,ILE,-125.13,129.26,Success
+6NNI,I,20,6NNI,6NNI Mycobacterium tuberculosis H37Rv | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,ILE,-126.03,130.26,Success
+6P9Z,L,20,6P9Z,6P9Z Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-83.55,146.2,Success
+6PBO,L,20,6PBO,6PBO Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-70.38,135.38,Success
+6PR6,L,21,6PR6,6PR6 Staphylococcus aureus | DHFR_domain:2-157,A,A,Dihydrofolate reductase,163,LEU,-67.98,135.84,Success
+6PR7,L,21,6PR7,6PR7 Staphylococcus aureus | DHFR_domain:2-157,A,A,Dihydrofolate reductase,163,LEU,-69.91,135.93,Success
+6PR8,L,20,6PR8,6PR8 Staphylococcus aureus | DHFR_domain:1-156,A,A,Dihydrofolate reductase,162,LEU,-66.06,133.14,Success
+6PR9,L,20,6PR9,6PR9 Staphylococcus aureus | DHFR_domain:1-156,A,A,Dihydrofolate reductase,162,LEU,-69.76,134.34,Success
+6PRA,L,21,6PRA,6PRA Staphylococcus aureus | DHFR_domain:2-157,A,A,Dihydrofolate reductase,163,LEU,-70.02,138.0,Success
+6PRB,L,20,6PRB,6PRB Staphylococcus aureus | DHFR_domain:1-156,A,A,Dihydrofolate reductase,162,LEU,-66.36,131.79,Success
+6PRD,L,20,6PRD,6PRD Staphylococcus aureus | DHFR_domain:1-156,A,A,Dihydrofolate reductase,162,LEU,-68.36,133.15,Success
+6UWQ,I,30,6UWQ,6UWQ Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-110.54,122.12,Success
+6UWW,I,30,6UWW,6UWW Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-111.13,122.38,Success
+6VCJ,L,24,6VCJ,6VCJ Homo sapiens | DHFR_domain:5-186,"A,B,C,D",A,Dihydrofolate reductase,188,LEU,-79.71,145.83,Success
+6VS5,I,22,6VS5,6VS5 Mycobacterium tuberculosis | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-122.83,131.6,Success
+6VS6,I,22,6VS6,6VS6 Mycobacterium tuberculosis | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-100.26,122.85,Success
+6VS8,I,22,6VS8,6VS8 Mycobacterium tuberculosis | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-131.28,131.08,Success
+6VS9,I,22,6VS9,6VS9 Mycobacterium tuberculosis H37Ra | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-106.91,120.57,Success
+6VSD,I,22,6VSD,6VSD Mycobacterium tuberculosis H37Rv | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-126.58,129.69,Success
+6VSE,I,22,6VSE,6VSE Mycobacterium tuberculosis H37Rv | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-128.7,130.99,Success
+6VSF,I,22,6VSF,6VSF Mycobacterium tuberculosis H37Rv | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-129.15,130.14,Success
+6VSG,I,22,6VSG,6VSG Mycobacterium tuberculosis H37Rv | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-106.87,122.17,Success
+6VV6,I,22,6VV6,6VV6 Mycobacterium tuberculosis H37Rv | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-128.62,122.27,Success
+6VV7,I,22,6VV7,6VV7 Mycobacterium tuberculosis H37Ra | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-120.63,129.87,Success
+6VV8,I,22,6VV8,6VV8 Mycobacterium tuberculosis H37Ra | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-96.19,126.74,Success
+6VV9,I,22,6VV9,6VV9 Mycobacterium tuberculosis H37Ra | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-131.94,127.58,Success
+6VVB,I,22,6VVB,6VVB Mycobacterium tuberculosis H37Rv | DHFR_domain:3-160,A,A,Dihydrofolate reductase,161,ILE,-99.49,126.68,Success
+6XG4,M,20,6XG4,6XG4 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-87.24,113.05,Success
+6XG5,M,20,6XG5,6XG5 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-85.52,125.13,Success
+7CTW,L,46,7CTW,7CTW Plasmodium falciparum | DHFR_domain_combined:33-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,606,LEU,-75.77,144.99,Success
+7D3Z,M,20,7D3Z,7D3Z Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-104.87,100.53,Success
+7D49,M,20,7D49,7D49 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-125.04,54.85,Success
+7D4L,M,20,7D4L,7D4L Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-110.5,114.54,Success
+7D4X,M,20,7D4X,7D4X Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-28.54,123.81,Success
+7D6G,M,20,7D6G,7D6G Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.9,107.36,Success
+7DFR,M,20,7DFR,7DFR Escherichia coli | DHFR_domain:1-158,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-108.25,112.34,Success
+7ESE,L,40,7ESE,7ESE Homo sapiens | DHFR_domain:21-202,A,A,Dihydrofolate reductase,204,LEU,-79.12,147.31,Success
+7F3Y,L,46,7F3Y,7F3Y Plasmodium falciparum | DHFR_domain_combined:33-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-74.44,145.51,Success
+7F3Z,L,46,7F3Z,7F3Z Plasmodium falciparum | DHFR_domain_combined:32-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-72.33,137.63,Success
+7FGW,L,23,7FGW,7FGW Toxoplasma gondii | DHFR_domain_combined:4-44+72-212,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,606,LEU,-82.46,150.87,Success
+7FGX,L,23,7FGX,7FGX Toxoplasma gondii | DHFR_domain_combined:4-44+72-212,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,606,LEU,-82.26,152.71,Success
+7FGY,L,23,7FGY,7FGY Toxoplasma gondii | DHFR_domain_combined:4-44+72-212,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,606,LEU,-79.32,146.95,Success
+7FPL,M,20,7FPL,7FPL Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-113.53,98.73,Success
+7FPM,M,20,7FPM,7FPM Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-114.39,99.96,Success
+7FPN,M,20,7FPN,7FPN Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-113.87,97.73,Success
+7FPO,M,20,7FPO,7FPO Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-115.53,103.88,Success
+7FPP,M,20,7FPP,7FPP Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-115.75,100.4,Success
+7FPQ,M,20,7FPQ,7FPQ Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.26,97.75,Success
+7FPR,M,20,7FPR,7FPR Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.08,97.1,Success
+7FPS,M,20,7FPS,7FPS Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-114.56,99.8,Success
+7FPT,M,20,7FPT,7FPT Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-117.67,98.39,Success
+7FPU,M,20,7FPU,7FPU Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-117.0,96.64,Success
+7FPV,M,20,7FPV,7FPV Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-115.19,100.27,Success
+7FPW,M,20,7FPW,7FPW Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-115.73,98.59,Success
+7FPX,M,20,7FPX,7FPX Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-117.6,98.44,Success
+7FPY,M,20,7FPY,7FPY Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-114.03,100.86,Success
+7FPZ,M,20,7FPZ,7FPZ Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-110.95,102.26,Success
+7FQ0,M,20,7FQ0,7FQ0 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-111.47,101.62,Success
+7FQ1,M,20,7FQ1,7FQ1 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-113.12,100.22,Success
+7FQ2,M,20,7FQ2,7FQ2 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-113.55,101.1,Success
+7FQ3,M,20,7FQ3,7FQ3 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.01,100.19,Success
+7FQ4,M,20,7FQ4,7FQ4 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-110.24,103.43,Success
+7FQ5,M,20,7FQ5,7FQ5 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-109.99,100.49,Success
+7FQ6,M,20,7FQ6,7FQ6 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-111.89,104.35,Success
+7FQ7,M,20,7FQ7,7FQ7 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.33,101.86,Success
+7FQ8,M,20,7FQ8,7FQ8 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.4,100.7,Success
+7FQ9,M,20,7FQ9,7FQ9 Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.24,98.94,Success
+7FQA,M,20,7FQA,7FQA Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-114.66,99.03,Success
+7FQB,M,20,7FQB,7FQB Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-115.07,99.68,Success
+7FQC,M,20,7FQC,7FQC Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.02,100.01,Success
+7FQD,M,20,7FQD,7FQD Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-114.39,97.62,Success
+7FQE,M,20,7FQE,7FQE Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.92,98.36,Success
+7FQF,M,20,7FQF,7FQF Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-115.69,101.59,Success
+7FQG,M,20,7FQG,7FQG Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-116.56,98.84,Success
+7K62,I,28,7K62,7K62 Mycobacterium kansasii | DHFR_domain:9-167,"A,B",A,Dihydrofolate reductase,167,ILE,-88.26,113.31,Success
+7K68,I,30,7K68,7K68 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-110.05,125.6,Success
+7K69,I,30,7K69,7K69 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-112.43,123.04,Success
+7K6A,I,30,7K6A,7K6A Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-108.96,122.48,Success
+7K6C,I,31,7K6C,7K6C Mycobacteroides abscessus ATCC 19977 | DHFR_domain:12-168,"A,B,C,D,E,F,G",A,Dihydrofolate reductase,169,ILE,-93.03,119.76,Success
+7KI8,I,30,7KI8,7KI8 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-109.3,121.9,Success
+7KI9,I,30,7KI9,7KI9 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-108.64,123.22,Success
+7KM7,I,30,7KM7,7KM7 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-106.94,127.06,Success
+7KM8,I,30,7KM8,7KM8 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,"A,B",A,Dihydrofolate reductase,173,ILE,-107.08,127.05,Success
+7KM9,I,30,7KM9,7KM9 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-107.12,127.88,Success
+7L9T,I,29,7L9T,7L9T Mycolicibacterium smegmatis MC2 155 | DHFR_domain:10-164,A,A,Dihydrofolate reductase,164,ILE,-109.42,125.22,Success
+7LVC,M,20,7LVC,7LVC Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-108.9,117.43,Success
+7MQP,M,20,7MQP,7MQP Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,161,MET,-93.54,164.35,Success
+7MYL,I,21,7MYL,7MYL Klebsiella pneumoniae | DHFR_domain:2-156,"A,B,C,D,E,F",A,Dihydrofolate reductase,157,ILE,-74.17,120.38,Success
+7MYM,M,20,7MYM,7MYM Escherichia coli | DHFR_domain:1-158,"A,B,C",A,Dihydrofolate reductase,158,MET,-106.43,117.81,Success
+7R6G,I,21,7R6G,7R6G Escherichia coli | DHFR_domain:2-156,"A,B",A,Dihydrofolate reductase type 5,157,ILE,-99.68,115.37,Success
+7REB,M,20,7REB,7REB Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,161,MET,-90.64,148.55,Success
+7REG,I,21,7REG,7REG Escherichia coli | DHFR_domain:2-156,"A,B",A,Dihydrofolate reductase type 1,157,ILE,-91.11,119.39,Success
+7RGJ,I,21,7RGJ,7RGJ Escherichia coli | DHFR_domain:2-156,"A,B",A,Dihydrofolate reductase type 1,156,ILE,-86.95,115.84,Success
+7RGK,I,21,7RGK,7RGK Escherichia coli | DHFR_domain:2-156,"A,B",A,Dihydrofolate reductase type 5,157,ILE,-95.39,117.0,Success
+7RGO,I,21,7RGO,7RGO Escherichia coli | DHFR_domain:2-156,"A,B",A,Dihydrofolate reductase type 5,157,ILE,-90.54,115.15,Success
+7RZO,M,29,7RZO,7RZO Stenotrophomonas maltophilia K279a | DHFR_domain:10-170,A,A,Dihydrofolate reductase,171,MET,-63.97,141.95,Success
+7T7Q,L,20,7T7Q,7T7Q Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-72.56,129.6,Success
+7T7S,L,20,7T7S,7T7S Staphylococcus aureus | DHFR_domain:1-156,X,X,,157,LEU,-72.56,129.6,Success
+7TJ3,M,29,7TJ3,7TJ3 Stenotrophomonas maltophilia K279a | DHFR_domain:10-170,A,A,Dihydrofolate reductase,171,MET,-80.5,158.59,Success
+7XI7,L,23,7XI7,7XI7 Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-65.06,134.99,Success
+7ZZX,L,26,7ZZX,7ZZX Candidozyma auris | DHFR_domain:6-182,B,B,water,204,LEU,68.71,110.27,Success
+8A0N,L,35,8A0N,8A0N Candidozyma auris | DHFR_domain:15-191,B,B,NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE,212,LEU,-135.24,137.21,Success
+8A0Z,L,26,8A0Z,8A0Z Candidozyma auris | DHFR_domain:6-182,"A,B",A,Dihydrofolate reductase,204,LEU,-103.26,119.29,Success
+8COP,I,22,8COP,8COP Mycobacterium tuberculosis | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-128.54,130.85,Success
+8COQ,I,22,8COQ,8COQ Mycobacterium tuberculosis | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-130.42,127.03,Success
+8COW,I,22,8COW,8COW Mycobacterium tuberculosis | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-109.64,114.6,Success
+8COX,I,22,8COX,8COX Mycobacterium tuberculosis | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-127.76,135.86,Success
+8CQ8,I,22,8CQ8,8CQ8 Mycobacterium tuberculosis | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-131.73,123.12,Success
+8CQ9,I,22,8CQ9,8CQ9 Mycobacterium tuberculosis | DHFR_domain:3-160,"A,B",A,Dihydrofolate reductase,161,ILE,-129.19,132.03,Success
+8CQA,I,20,8CQA,8CQA Mycobacterium tuberculosis | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,ILE,-128.29,126.95,Success
+8CRH,L,30,8CRH,8CRH Candidozyma auris | DHFR_domain:10-186,"A,B",A,Dihydrofolate reductase,208,LEU,-84.3,132.82,Success
+8DAE,L,57,8DAE,8DAE Arabidopsis thaliana | DHFR_domain:38-215,A,A,Bifunctional dihydrofolate reductase-thymidylate synthase 1,529,LEU,-97.6,127.38,Success
+8DAI,M,20,8DAI,8DAI Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-115.14,123.39,Success
+8DFR,L,22,8DFR,8DFR Gallus gallus | DHFR_domain:3-184,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-82.3,153.71,Success
+8E4F,M,35,8E4F,8E4F Wuchereria bancrofti | DHFR_domain:16-190,A,A,Dihydrofolate reductase,193,MET,-91.77,142.26,Success
+8F09,L,22,8F09,8F09 uncultured bacterium | DHFR_domain:3-166,"A,B",A,Dihydrofolate reductase,167,LEU,-72.51,174.66,Success
+8F80,I,30,8F80,8F80 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-122.33,124.45,Success
+8F81,I,30,8F81,8F81 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-112.24,122.9,Success
+8F82,I,30,8F82,8F82 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-119.89,124.71,Success
+8F83,I,30,8F83,8F83 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-118.7,120.52,Success
+8F84,I,30,8F84,8F84 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-116.96,123.38,Success
+8F85,I,30,8F85,8F85 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-117.82,126.16,Success
+8G4Z,M,20,8G4Z,8G4Z Escherichia coli K-12 | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-108.14,104.44,Success
+8G50,M,20,8G50,8G50 Escherichia coli K-12 | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-110.01,97.49,Success
+8RHT,I,50,8RHT,8RHT Trypanosoma brucei brucei | DHFR_domain:31-205,A,A,Bifunctional dihydrofolate reductase-thymidylate synthase,242,ILE,-51.15,131.9,Success
+8SSX,L,21,8SSX,8SSX Bacillus anthracis | DHFR_domain:2-160,A,A,Dihydrofolate reductase,162,LEU,-70.6,149.88,Success
+8SZD,M,25,8SZD,8SZD Yersinia pestis | DHFR_domain:6-163,A,A,Dihydrofolate reductase,164,MET,-84.67,118.74,Success
+8TA0,I,30,8TA0,8TA0 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-118.07,124.2,Success
+8TA1,I,30,8TA1,8TA1 Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-113.1,123.02,Success
+8TBR,I,30,8TBR,8TBR Mycobacterium ulcerans Agy99 | DHFR_domain:11-172,A,A,Dihydrofolate reductase,173,ILE,-118.66,122.93,Success
+8UCX,M,20,8UCX,8UCX Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-139.07,81.45,Success
+8UVZ,L,20,8UVZ,8UVZ Bacillus subtilis | DHFR_domain:1-159,A,A,Dihydrofolate reductase,160,LEU,-77.19,151.18,Success
+8UW0,M,20,8UW0,8UW0 Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,-93.54,123.31,Success
+8VTC,I,24,8VTC,8VTC Mycobacterium avium | DHFR_domain:5-166,A,A,Dihydrofolate reductase,167,ILE,-86.55,122.84,Success
+8VZ4,M,20,8VZ4,8VZ4 Escherichia coli | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-71.51,143.76,Success
+8WGM,L,46,8WGM,8WGM Plasmodium falciparum VS/1 | DHFR_domain_combined:31-66+89-228,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,605,LEU,-72.8,151.87,Success
+8WGN,L,23,8WGN,8WGN Homo sapiens | DHFR_domain:4-185,A,A,Dihydrofolate reductase,187,LEU,-69.79,143.82,Success
+9KZ4,M,20,9KZ4,9KZ4 Escherichia coli K-12 | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-100.66,127.61,Success
+9MLM,M,35,9MLM,9MLM Wuchereria bancrofti | DHFR_domain:16-190,A,A,Dihydrofolate reductase,193,MET,-80.02,141.9,Success
+9MLT,M,35,9MLT,9MLT Wuchereria bancrofti | DHFR_domain:16-190,A,A,Dihydrofolate reductase,193,MET,-89.28,140.05,Success
+9NI0,M,20,9NI0,9NI0 Escherichia coli | DHFR_domain:1-158,"A,B",A,Dihydrofolate reductase,159,MET,-70.0,145.16,Success
+9ONI,M,35,9ONI,9ONI Wuchereria bancrofti | DHFR_domain:16-190,A,A,dihydrofolate reductase,192,MET,-89.64,142.29,Success
+9OOI,M,35,9OOI,9OOI Wuchereria bancrofti | DHFR_domain:16-190,"A,B,C",A,dihydrofolate reductase,193,MET,-89.14,142.95,Success
+9PXC,M,20,9PXC,9PXC Escherichia coli | DHFR_domain:1-158,A,A,Dihydrofolate reductase,159,MET,,90.94,Success
