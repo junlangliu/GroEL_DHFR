@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Source data (not redistributed — download from PlesaLab/DHFR and RCSB PDB)
+data_raw/
+*.tsv.gz
+*_collapse_d1.tsv
+
+# Large intermediate files
+*.fasta.gz
+
+# Adobe Illustrator
+*.ai
+
+# OS
+.DS_Store
+Thumbs.db

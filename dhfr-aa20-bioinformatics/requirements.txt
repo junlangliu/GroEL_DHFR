@@ -1,0 +1,9 @@
+# Python dependencies for dhfr-aa20-bioinformatics
+# Tested with Python 3.9+
+
+biopython>=1.79
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+matplotlib>=3.6
+seaborn>=0.12

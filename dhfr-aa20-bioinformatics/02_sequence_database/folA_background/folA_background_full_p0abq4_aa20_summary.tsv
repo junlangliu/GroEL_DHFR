@@ -1,0 +1,13 @@
+key	value
+input_msa	/n/home05/zhihuiqi/qzh/IC50/data_processed/phylo/phylogenetics/mmseqs2_mafft/folA_full/dhfr_pfam_full_with_ref_mafft.fasta
+p0abq4_reference_header	sp|P0ABQ4|DYR_ECOLI Dihydrofolate reductase OS=Escherichia coli (strain K12) OX=83333 GN=folA PE=1 SV=1
+p0abq4_aa20_alignment_column_1based	207
+total_records	68238
+p0abq4_reference	1
+included_non_reference	68237
+excluded_header_contains_dfra	0
+standard_aa20	67436
+gap_aa20	800
+nonstandard_aa20	1
+example_gap	WP_373290668.1 dihydrofolate reductase [Oceanobacillus neutriphilus] | DHFR_domain:1-142 || WP_236498280.1 type 3 dihydrofolate reductase [Thiothrix winogradskyi] | DHFR_domain:1-140 || tr|A0A379X128|A0A379X128_SALET Dihydrofolate reductase OS=Salmonella enterica I OX=59201 GN=folA PE=3 SV=1 | DHFR_domain:21-164
+example_nonstandard	"tr|A0A2I7WAN0|A0A2I7WAN0_MYCTX Dihydrofolate reductase OS=Mycobacterium tuberculosis OX=1773 GN=folA PE=3 SV=1 | DHFR_domain:1-158	X"

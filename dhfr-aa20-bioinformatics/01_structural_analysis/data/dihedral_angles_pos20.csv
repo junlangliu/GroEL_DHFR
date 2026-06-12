@@ -1,0 +1,599 @@
+PDB_ID,Amino_Acid,Original_Position,All_Chains,Resolved_Chain,Chain_Description,Chain_Length,Found_Amino_Acid,Phi,Psi,Status
+1AI9,M,25,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-82.21,132.60,Success
+1AO8,L,19,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-91.49,156.44,Success
+1AOE,M,25,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-82.05,141.91,Success
+1BOZ,L,22,A,A,PROTEIN (DIHYDROFOLATE REDUCTASE),186,LEU,-76.21,147.27,Success
+1BZF,L,19,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-86.92,156.59,Success
+1CD2,L,25,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-87.20,136.10,Success
+1DAJ,L,25,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-83.65,106.98,Success
+1DDR,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-78.99,135.28,Success
+1DDS,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-71.17,142.54,Success
+1DF7,I,20,A,A,DIHYDROFOLATE REDUCTASE,159,ILE,-89.48,119.17,Success
+1DG5,I,20,A,A,DIHYDROFOLATE REDUCTASE,159,ILE,-92.02,122.76,Success
+1DG7,I,20,A,A,DIHYDROFOLATE REDUCTASE,159,ILE,-108.79,112.36,Success
+1DG8,I,20,A,A,DIHYDROFOLATE REDUCTASE,159,ILE,-98.26,119.58,Success
+1DHF,L,22,"A,B",A,DIHYDROFOLATE REDUCTASE,185,LEU,-66.29,134.88,Success
+1DHI,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-74.89,145.34,Success
+1DHJ,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-79.44,148.06,Success
+1DIS,L,19,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-63.69,138.40,Success
+1DIU,L,19,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-80.23,146.55,Success
+1DLR,F,22,A,A,DIHYDROFOLATE REDUCTASE,186,PHE,-63.21,127.76,Success
+1DLS,Y,22,A,A,DIHYDROFOLATE REDUCTASE,186,TYR,-91.03,156.65,Success
+1DR1,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-83.28,156.16,Success
+1DR2,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-78.49,149.75,Success
+1DR3,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-76.48,148.15,Success
+1DR4,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-78.55,145.21,Success
+1DR5,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-80.04,151.77,Success
+1DR6,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-79.61,154.59,Success
+1DR7,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-81.32,154.22,Success
+1DRA,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-73.66,144.43,Success
+1DRB,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-78.73,145.83,Success
+1DRE,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-116.48,130.96,Success
+1DRF,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-68.17,133.31,Success
+1DRH,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-99.46,117.90,Success
+1DYH,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-73.56,140.24,Success
+1DYI,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-71.70,143.76,Success
+1DYJ,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-69.97,141.44,Success
+1DYR,L,25,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-78.68,133.74,Success
+1E26,L,25,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-123.49,100.55,Success
+1HFP,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-74.46,143.08,Success
+1HFQ,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-75.07,147.00,Success
+1HFR,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-76.50,147.90,Success
+1IA1,M,25,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-82.82,141.68,Success
+1IA2,M,25,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-79.25,135.82,Success
+1IA3,M,25,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-73.77,130.77,Success
+1IA4,M,25,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-72.82,133.88,Success
+1JOL,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-73.03,144.62,Success
+1JOM,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-82.30,157.08,Success
+1JUV,L,28,A,A,DIHYDROFOLATE REDUCTASE,193,LEU,-105.69,147.96,Success
+1KLK,L,25,A,A,Dihydrofolate reductase,206,LEU,-109.43,117.70,Success
+1KMS,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-73.16,150.88,Success
+1KMV,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-72.40,149.08,Success
+1LUD,L,19,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-53.63,162.73,Success
+1LY3,L,25,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-100.50,116.50,Success
+1LY4,L,25,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-97.13,90.58,Success
+1M78,M,25,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-80.38,140.24,Success
+1M79,M,25,"A,B",A,dihydrofolate reductase,192,MET,-80.39,136.34,Success
+1M7A,M,25,"A,B",A,DIHYDROFOLATE REDUCTASE,192,MET,-83.82,136.62,Success
+1MVS,L,23,A,A,Dihydrofolate Reductase,187,LEU,-71.89,135.70,Success
+1MVT,L,23,A,A,Dihydrofolate Reductase,187,LEU,-75.63,150.31,Success
+1OHJ,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-83.11,136.52,Success
+1OHK,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-87.02,133.92,Success
+1PD8,L,22,A,A,Dihydrofolate reductase,186,LEU,-80.36,134.07,Success
+1PD9,L,22,A,A,Dihydrofolate reductase,186,LEU,-77.89,140.25,Success
+1PDB,L,22,A,A,Dihydrofolate reductase,186,LEU,-98.57,148.40,Success
+1QZF,L,25,"A,B,C,D,E",A,bifunctional dihydrofolate reductase-thymidylate synthase,521,LEU,-75.53,138.24,Success
+1RA1,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-67.97,143.27,Success
+1RA2,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-66.69,141.62,Success
+1RA3,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-59.60,141.66,Success
+1RA8,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-70.67,145.32,Success
+1RA9,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-66.18,142.67,Success
+1RB2,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-58.62,139.66,Success
+1RB3,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-59.15,135.84,Success
+1RC4,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-89.45,124.57,Success
+1RD7,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-62.27,136.08,Success
+1RE7,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-56.83,112.87,Success
+1RF7,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-93.30,126.02,Success
+1RG7,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-87.35,108.40,Success
+1RH3,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-114.12,128.74,Success
+1RX1,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-99.95,123.54,Success
+1RX2,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-110.85,113.94,Success
+1RX3,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-105.28,120.87,Success
+1RX4,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-64.80,130.97,Success
+1RX5,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-73.72,131.69,Success
+1RX6,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-76.85,128.47,Success
+1RX7,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-40.96,85.09,Success
+1RX8,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-96.88,111.20,Success
+1RX9,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-101.26,100.39,Success
+1S3U,L,22,A,A,Dihydrofolate reductase,186,LEU,-76.90,143.56,Success
+1S3V,L,22,A,A,Dihydrofolate reductase,186,LEU,-81.45,155.73,Success
+1S3W,L,22,A,A,Dihydrofolate reductase,186,LEU,-81.10,147.40,Success
+1S3Y,L,25,A,A,Dihydrofolate reductase,206,LEU,107.91,76.86,Success
+1SEJ,L,25,"A,B,C,D,E",A,bifunctional dihydrofolate reductase-thymidylate synthase,521,LEU,-76.37,152.43,Success
+1TDR,M,20,"A,B",A,TELLUROMETHIONYL DIHYDROFOLATE REDUCTASE,159,MET,-75.77,144.63,Success
+1U70,R,22,A,A,Dihydrofolate reductase,186,ARG,-81.04,148.80,Success
+1U71,R,22,A,A,Dihydrofolate reductase,186,ARG,-68.68,131.91,Success
+1U72,L,22,A,A,Dihydrofolate reductase,186,LEU,-79.87,155.74,Success
+1VDR,L,21,"A,B",A,DIHYDROFOLATE REDUCTASE,158,LEU,-58.73,141.53,Success
+1VJ3,L,24,A,A,DIHYDROFOLATE REDUCTASE,205,LEU,-86.46,123.15,Success
+1YHO,L,22,A,A,Dihydrofolate reductase,186,LEU,-68.28,143.73,Success
+1ZDR,L,20,"A,B",A,dihydrofolate reductase,161,LEU,-94.18,132.24,Success
+2ANO,M,20,A,A,Dihydrofolate reductase,159,MET,-81.50,103.92,Success
+2ANQ,M,20,A,A,Dihydrofolate reductase,159,MET,-91.59,101.51,Success
+2BL9,L,45,A,A,DIHYDROFOLATE REDUCTASE-THYMIDYLATE SYNTHASE,238,LEU,-76.04,147.82,Success
+2BLA,L,45,A,A,DIHYDROFOLATE REDUCTASE-THYMIDYLATE SYNTHASE,238,LEU,-68.77,148.26,Success
+2BLB,L,45,A,A,DIHYDROFOLATE REDUCTASE-THYMIDYLATE SYNTHASE,238,LEU,-68.83,127.55,Success
+2BLC,L,45,A,A,DIHYDROFOLATE REDUCTASE-THYMIDYLATE SYNTHASE,238,LEU,-70.73,135.90,Success
+2C2S,L,22,"A,B",A,DIHYDROFOLATE REDUCTASE,186,LEU,-75.97,149.54,Success
+2C2T,L,22,"A,B",A,DIHYDROFOLATE REDUCTASE,186,LEU,-77.89,151.89,Success
+2CD2,L,25,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-82.30,139.98,Success
+2CIG,I,20,A,A,DIHYDROFOLATE REDUCTASE,159,ILE,-101.46,123.83,Success
+2D0K,L,20,"A,B",A,Dihydrofolate reductase,159,LEU,-70.11,135.14,Success
+2DHF,L,22,"A,B",A,DIHYDROFOLATE REDUCTASE,185,LEU,-60.28,135.96,Success
+2DRC,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-73.95,144.85,Success
+2FZH,L,25,A,A,Dihydrofolate reductase,206,LEU,-101.46,129.27,Success
+2FZI,L,25,A,A,Dihydrofolate reductase,206,LEU,-79.11,124.35,Success
+2FZJ,L,22,A,A,Dihydrofolate reductase,186,LEU,-76.04,147.39,Success
+2H2Q,I,41,A,A,Bifunctional dihydrofolate reductase-thymidylate synthase,515,ILE,-112.96,117.92,Success
+2HM9,L,19,A,A,Dihydrofolate reductase,162,LEU,-99.49,96.03,Success
+2HQP,L,19,A,A,Dihydrofolate reductase,162,LEU,-108.20,98.87,Success
+2INQ,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-65.45,143.30,Success
+2ITH,L,21,A,A,Dihydrofolate reductase,162,LEU,-158.43,143.26,Success
+2JYB,L,21,A,A,Dihydrofolate reductase,162,LEU,-62.62,114.39,Success
+2KGK,L,21,A,A,Dihydrofolate reductase,162,LEU,-84.38,150.99,Success
+2L28,L,19,A,A,Dihydrofolate reductase,162,LEU,-54.21,135.61,Success
+2LF1,L,19,A,A,Dihydrofolate reductase,162,LEU,-65.63,118.24,Success
+2OIP,L,23,"A,B,C,D,E",A,"Chain A, crystal structure of Dhfr",519,LEU,-85.31,148.82,Success
+2QK8,L,21,A,A,Dihydrofolate reductase,162,LEU,-80.92,158.64,Success
+2W3A,L,23,"A,B",A,DIHYDROFOLATE REDUCTASE,187,LEU,-73.92,148.12,Success
+2W3B,L,23,"A,B",A,DIHYDROFOLATE REDUCTASE,186,LEU,-81.58,154.13,Success
+2W3M,L,23,"A,B",A,DIHYDROFOLATE REDUCTASE,187,LEU,-81.52,152.42,Success
+2W3V,I,24,A,A,DIHYDROFOLATE REDUCTASE,167,ILE,-76.90,118.85,Success
+2W3W,I,24,A,A,DIHYDROFOLATE REDUCTASE,167,ILE,-93.40,124.93,Success
+2W9G,L,21,A,A,DIHYDROFOLATE REDUCTASE,159,LEU,-78.01,139.20,Success
+2W9H,L,21,A,A,DIHYDROFOLATE REDUCTASE,159,LEU,-69.05,127.74,Success
+2W9S,L,21,"A,B,C,D,E,F",A,DIHYDROFOLATE REDUCTASE TYPE 1 FROM TN4003,158,LEU,-76.28,138.72,Success
+2W9T,L,21,"A,B",A,DIHYDROFOLATE REDUCTASE TYPE 1,160,LEU,-49.55,132.67,Success
+2ZZA,M,21,"A,B",A,Dihydrofolate reductase,161,MET,-87.62,135.65,Success
+3CD2,L,25,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,-101.88,121.71,Success
+3CL9,I,41,A,A,Bifunctional dihydrofolate reductase-thymidylate synthase (DHFR-TS),514,ILE,-141.75,137.81,Success
+3CLB,I,41,"A,B,C,D",A,DHFR-TS,516,ILE,-87.34,127.82,Success
+3CSE,L,25,"A,B",A,Dihydrofolate reductase,227,LEU,-83.31,150.04,Success
+3D80,L,22,A,A,Dihydrofolate reductase,186,LEU,-80.70,154.26,Success
+3D84,L,22,X,X,,186,LEU,-80.58,147.32,Success
+3DAT,L,21,A,A,Dihydrofolate reductase,161,LEU,-66.95,139.66,Success
+3DAU,M,20,A,A,Dihydrofolate reductase,159,MET,-107.25,131.52,Success
+3DFR,L,19,A,A,DIHYDROFOLATE REDUCTASE,162,LEU,-80.23,146.55,Success
+3DL5,L,25,"A,B,C,D,E",A,"Dihydrofolate reductase, DHFR",521,LEU,-87.20,152.41,Success
+3DL6,L,25,"A,B,C,D,E",A,"Dihydrofolate reductase, DHFR",521,LEU,-64.76,139.85,Success
+3DRC,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-72.79,143.16,Success
+3E0B,L,25,"A,B",A,Dihydrofolate reductase,166,LEU,-82.07,137.31,Success
+3EEJ,L,25,"A,B",A,Dihydrofolate reductase,227,LEU,-68.05,142.19,Success
+3EEK,L,25,"A,B",A,Dihydrofolate reductase,227,LEU,-66.58,139.89,Success
+3EEL,L,25,"A,B",A,Dihydrofolate reductase,227,LEU,-64.63,136.22,Success
+3EEM,L,25,"A,B",A,Dihydrofolate reductase,227,LEU,-68.70,140.95,Success
+3EIG,L,22,A,A,Dihydrofolate reductase,186,LEU,-59.06,132.92,Success
+3F0B,L,20,X,X,,157,LEU,-78.88,136.34,Success
+3F0Q,L,20,X,X,,157,LEU,-81.92,137.14,Success
+3F0S,L,20,X,X,,157,LEU,-79.73,130.17,Success
+3F0U,L,20,X,X,,157,LEU,-74.20,137.08,Success
+3F0V,L,20,X,X,,157,LEU,-78.42,136.08,Success
+3F0X,L,20,X,X,,157,LEU,-79.92,131.74,Success
+3F8Y,L,23,A,A,Dihydrofolate reductase,187,LEU,-76.07,146.53,Success
+3F8Z,L,23,A,A,Dihydrofolate reductase,187,LEU,-70.27,148.21,Success
+3F91,L,23,A,A,Dihydrofolate reductase,187,LEU,-69.97,147.05,Success
+3FL8,L,21,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-82.91,130.11,Success
+3FL9,L,21,"A,B,C,D,E,F,G,H",A,dihydrofolate reductase (DHFR),166,LEU,-79.39,140.17,Success
+3FQ0,L,20,A,A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-73.55,139.81,Success
+3FQC,L,20,"A,B",A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-65.21,133.78,Success
+3FQF,L,20,A,A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-69.91,129.47,Success
+3FQO,L,20,A,A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-74.23,134.20,Success
+3FQV,L,20,A,A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-72.93,133.76,Success
+3FQZ,L,20,A,A,Trimethoprim-sensitive dihydrofolate reductase,157,LEU,-67.50,133.24,Success
+3FRA,L,20,X,X,,157,LEU,-80.84,130.77,Success
+3FRB,L,20,X,X,,157,LEU,-72.10,135.35,Success
+3FRD,L,20,X,X,,157,LEU,-74.48,133.90,Success
+3FRE,L,20,X,X,,157,LEU,-66.85,133.50,Success
+3FRF,L,20,X,X,,158,LEU,-69.11,133.15,Success
+3FS6,L,23,A,A,Dihydrofolate reductase,187,LEU,-73.55,146.95,Success
+3FY8,L,20,X,X,,157,LEU,-71.25,148.01,Success
+3FY9,L,20,X,X,,157,LEU,-63.79,138.47,Success
+3FYV,L,20,X,X,,158,LEU,-73.86,138.42,Success
+3FYW,L,20,X,X,,158,LEU,-72.51,134.18,Success
+3GHC,L,22,A,A,Dihydrofolate reductase,186,LEU,-77.70,155.30,Success
+3GHV,L,22,A,A,Dihydrofolate reductase,186,LEU,-79.40,154.11,Success
+3GHW,L,22,A,A,Dihydrofolate reductase,186,LEU,-79.21,153.41,Success
+3GI2,L,23,A,A,Dihydrofolate reductase,187,LEU,-74.31,156.66,Success
+3GYF,L,23,A,A,Dihydrofolate reductase,187,LEU,-72.99,152.40,Success
+3HBB,I,41,"A,B,C,D",A,Dihydrofolate reductase-thymidylate synthase,516,ILE,-85.65,127.01,Success
+3I8A,L,20,X,X,,157,LEU,-83.59,137.04,Success
+3IA4,M,21,"A,B,C,D",A,Dihydrofolate reductase,161,MET,-101.59,130.35,Success
+3IA5,M,21,"A,B",A,Dihydrofolate reductase,161,MET,-73.91,121.47,Success
+3INV,I,41,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,515,ILE,-97.36,120.87,Success
+3IRM,I,41,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,520,ILE,-144.90,84.72,Success
+3IRN,I,41,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,516,ILE,-114.22,103.49,Success
+3IRO,I,41,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,518,ILE,-95.63,95.71,Success
+3IX9,L,43,"A,B",A,Dihydrofolate reductase,187,LEU,-97.83,127.35,Success
+3JSU,L,46,"A,B",A,Dihydrofolate reductase-thymidylate synthase,606,LEU,-71.71,138.58,Success
+3JVX,L,27,"A,B",A,Dihydrofolate reductase,168,LEU,-82.39,136.75,Success
+3JW3,L,27,"A,B",A,Dihydrofolate reductase,168,LEU,-58.69,122.05,Success
+3JW5,L,27,"A,B",A,Dihydrofolate reductase,168,LEU,-65.68,134.31,Success
+3JWC,L,27,"A,B",A,Dihydrofolate reductase,168,LEU,-75.54,138.62,Success
+3JWF,L,27,"A,B",A,Dihydrofolate reductase,168,LEU,-80.41,130.93,Success
+3JWK,L,27,"A,B",A,Dihydrofolate reductase,168,LEU,-78.46,132.17,Success
+3JWM,L,27,"A,B",A,Dihydrofolate reductase,168,LEU,-79.37,133.31,Success
+3K45,L,22,A,A,Dihydrofolate reductase,186,LEU,-82.18,149.44,Success
+3K47,L,22,A,A,Dihydrofolate reductase,186,LEU,-71.92,147.41,Success
+3KFY,M,20,A,A,Dihydrofolate reductase,159,MET,-89.63,119.38,Success
+3KJS,I,41,"A,B,C,D",A,Dihydrofolate reductase-thymidylate synthase,515,ILE,-98.27,117.86,Success
+3L3R,L,22,A,A,Dihydrofolate reductase,186,LEU,-73.80,146.13,Success
+3LG4,L,21,"A,B",A,Dihydrofolate reductase,158,LEU,-65.82,129.26,Success
+3M08,L,20,A,A,Dihydrofolate reductase,161,LEU,-69.50,135.94,Success
+3M09,L,20,A,A,Dihydrofolate reductase,161,LEU,-72.66,137.89,Success
+3N0H,L,22,A,A,Dihydrofolate reductase,186,LEU,-69.45,139.00,Success
+3NTZ,L,22,A,A,Dihydrofolate reductase,186,LEU,-76.06,155.14,Success
+3NU0,L,22,A,A,Dihydrofolate reducatase,186,LEU,-77.95,157.83,Success
+3NXO,L,22,A,A,Dihydrofolate reductase,186,LEU,-95.10,131.84,Success
+3NXR,L,22,A,A,Dihydrofolate reductase,186,LEU,-74.17,153.56,Success
+3NXT,L,22,A,A,Dihydrofolate reductase,186,LEU,-71.26,153.47,Success
+3NXV,L,22,A,A,Dihydrofolate reductase,186,LEU,-76.13,143.69,Success
+3NXX,L,22,A,A,Dihydrofolate reductase,186,LEU,-79.37,152.04,Success
+3NXY,L,22,A,A,Dihydrofolate reductase,186,LEU,-76.13,143.70,Success
+3NZ6,L,25,X,X,,206,LEU,-86.29,128.78,Success
+3NZ9,L,25,X,X,,206,LEU,-87.85,129.93,Success
+3NZA,L,25,X,X,,206,LEU,-87.41,139.65,Success
+3NZB,L,25,X,X,,206,LEU,-88.46,136.06,Success
+3NZC,L,25,X,X,,206,LEU,-111.55,124.12,Success
+3NZD,L,22,A,A,Dihydrofolate reductase,186,LEU,-70.58,149.34,Success
+3OAF,L,22,A,A,Dihydrofolate reductase,186,LEU,-70.58,137.25,Success
+3OCH,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-71.34,146.04,Success
+3Q1H,M,24,A,A,Dihydrofolate reductase,163,MET,-83.78,118.51,Success
+3QFX,I,47,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,241,ILE,-90.95,123.84,Success
+3QG2,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-74.12,152.58,Success
+3QGT,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-75.85,141.53,Success
+3QL0,M,20,A,A,Dihydrofolate reductase,160,MET,-71.53,145.89,Success
+3QL3,M,20,A,A,Dihydrofolate reductase,159,MET,-112.91,118.62,Success
+3QLR,M,25,"A,B",A,Putative uncharacterized protein CaJ7.0360,192,MET,-75.85,139.89,Success
+3QLS,M,25,"A,B",A,Putative uncharacterized protein CaJ7.0360,192,MET,-91.29,137.55,Success
+3QLW,M,25,"A,B",A,Putative uncharacterized protein CaJ7.0360,192,MET,-87.70,130.93,Success
+3QLX,L,25,"A,B",A,Dihydrofolate reductase,227,LEU,-65.61,142.96,Success
+3QLY,L,25,"A,B",A,Strain CBS138 chromosome J complete sequence,227,LEU,-76.95,142.81,Success
+3QLZ,L,25,"A,B",A,Strain CBS138 chromosome J complete sequence,227,LEU,-67.96,145.31,Success
+3QYL,M,20,A,A,Dihydrofolate reductase,159,MET,-114.77,92.42,Success
+3QYO,M,20,A,A,Dihydrofolate reductase,159,MET,-104.71,99.56,Success
+3R33,M,20,A,A,Dihydrofolate reductase,159,MET,-107.79,100.44,Success
+3RG9,I,47,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,240,ILE,-98.48,124.84,Success
+3RO9,L,23,"A,B",A,Strain CBS138 chromosome J complete sequence,225,LEU,-83.08,143.60,Success
+3ROA,L,23,"A,B",A,Strain CBS138 chromosome J complete sequence,225,LEU,-70.66,145.97,Success
+3S3V,L,22,A,A,Dihydrofolate reductase,186,LEU,-62.14,138.25,Success
+3S7A,L,22,A,A,Dihydrofolate reductase,186,LEU,-69.05,150.12,Success
+3S9U,L,24,"A,B",A,Dihydrofolate reductase,165,LEU,-80.53,139.50,Success
+3SA1,L,24,"A,B",A,Dihydrofolate reductase,165,LEU,-81.06,136.15,Success
+3SA2,L,24,"A,B",A,Dihydrofolate reductase,165,LEU,-84.38,135.62,Success
+3SAI,L,24,"A,B",A,Dihydrofolate reductase,165,LEU,-83.12,137.66,Success
+3SGY,L,20,"A,B",A,Dihydrofolate reductase,157,LEU,-82.35,134.06,Success
+3SH2,L,20,"A,B",A,Dihydrofolate reductase,157,LEU,-69.64,131.95,Success
+3SQY,L,21,X,X,,158,LEU,-78.34,143.24,Success
+3SR5,L,20,X,X,,157,LEU,-78.36,137.34,Success
+3SRQ,L,21,X,X,,158,LEU,-74.13,142.47,Success
+3SRR,L,21,X,X,,158,LEU,-71.89,141.05,Success
+3SRS,L,21,X,X,,158,LEU,-72.36,141.49,Success
+3SRU,L,21,X,X,,158,LEU,-69.47,139.86,Success
+3SRW,L,21,X,X,,158,LEU,-71.29,140.38,Success
+3TD8,L,25,A,A,Dihydrofolate reductase,206,LEU,-82.98,130.19,Success
+3TQ8,L,21,A,A,Dihydrofolate reductase,173,LEU,-68.44,144.85,Success
+3TQ9,L,21,A,A,Dihydrofolate reductase,160,LEU,-89.16,152.53,Success
+3TQA,L,21,A,A,Dihydrofolate reductase,160,LEU,-82.79,139.15,Success
+3TQB,L,21,A,A,Dihydrofolate reductase,160,LEU,-76.86,132.12,Success
+3UM5,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-79.55,139.66,Success
+3UM6,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-81.52,140.42,Success
+3UM8,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-70.28,137.54,Success
+3VCO,L,41,A,A,Dihydrofolate reductase,201,LEU,-73.45,138.60,Success
+4CD2,L,25,A,A,DIHYDROFOLATE REDUCTASE,206,LEU,52.15,58.63,Success
+4DDR,L,22,A,A,Dihydrofolate reductase,186,LEU,-79.64,146.96,Success
+4DFR,M,20,"A,B",A,DIHYDROFOLATE REDUCTASE,159,MET,-69.44,141.83,Success
+4DP3,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,606,LEU,-70.40,145.90,Success
+4DPD,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,605,LEU,-75.22,141.74,Success
+4DPH,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-73.62,148.09,Success
+4ECK,L,23,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,610,LEU,-127.85,138.54,Success
+4EIL,L,23,"A,B,C,D,E,F,G,H",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-86.28,151.48,Success
+4ELB,L,21,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-72.91,128.31,Success
+4ELE,L,21,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-80.58,116.63,Success
+4ELF,L,21,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-78.14,131.69,Success
+4ELG,L,21,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-81.53,137.49,Success
+4ELH,L,21,"A,B,C,D,E,F,G,H",A,Dihydrofolate reductase,166,LEU,-77.21,128.48,Success
+4FGG,L,21,A,A,Dihydrofolate reductase,163,LEU,-75.49,138.93,Success
+4FGH,L,21,A,A,Dihydrofolate reductase,163,LEU,-66.23,138.01,Success
+4G8Z,L,23,X,X,,204,LEU,-81.89,131.05,Success
+4G95,L,22,A,A,Dihydrofolate reductase,186,LEU,-73.01,146.99,Success
+4GH8,M,20,"A,B",A,Dihydrofolate reductase,162,MET,-89.86,125.99,Success
+4H95,M,22,"A,B",A,Dihydrofolate Reductase,189,MET,-76.04,134.24,Success
+4H96,M,22,"A,B",A,Dihydrofolate Reductase,189,MET,-69.05,133.82,Success
+4H97,M,23,"A,B",A,Dihydrofolate Reductase,190,MET,-75.56,134.71,Success
+4H98,L,22,"A,B",A,Dihydrofolate Reductase,224,LEU,-73.13,134.44,Success
+4HOE,M,25,"A,B",A,Dihydrofolate reductase,192,MET,-84.49,138.64,Success
+4HOF,M,25,"A,B",A,Dihydrofolate reductase,192,MET,-77.92,143.44,Success
+4HOG,L,25,"A,B",A,Dihydrofolate Reductase,227,LEU,-68.60,146.78,Success
+4IXE,L,25,D,D,water,206,LEU,-99.14,125.53,Success
+4IXF,L,25,X,X,,206,LEU,-96.92,137.62,Success
+4IXG,L,25,X,X,,206,LEU,-81.82,142.87,Success
+4KAK,L,22,"A,B",A,Dihydrofolate reductase,186,LEU,-81.26,148.59,Success
+4KBN,L,22,"A,B",A,Dihydrofolate reductase,186,LEU,-74.99,149.32,Success
+4KD7,L,22,"A,B",A,Dihydrofolate reductase,186,LEU,-76.57,143.49,Success
+4KEB,L,22,"A,B",A,Dihydrofolate reductase,186,LEU,-76.52,151.89,Success
+4KFJ,L,22,"A,B",A,Dihydrofolate reductase,186,LEU,-78.49,152.17,Success
+4KJJ,M,20,A,A,Dihydrofolate reductase,159,MET,-101.92,116.14,Success
+4KJK,M,20,A,A,Dihydrofolate reductase,159,MET,-101.96,106.43,Success
+4KJL,M,20,A,A,Dihydrofolate reductase,160,MET,-102.90,124.99,Success
+4KL9,I,40,A,A,Dihydrofolate reductase,179,ILE,-102.07,125.38,Success
+4KLX,I,40,"A,B",A,Dihydrofolate reductase,179,ILE,-72.21,132.74,Success
+4KM0,I,40,"A,B",A,Dihydrofolate reductase,179,ILE,-66.71,127.81,Success
+4KM2,I,40,"A,B",A,Dihydrofolate reductase,179,ILE,-64.82,122.24,Success
+4KNE,I,40,"A,B",A,Dihydrofolate reductase,179,ILE,-65.84,124.21,Success
+4KY4,L,23,"A,B,C,D,E,F,G,H",A,Bifunctional dihydrofolate reductase-thymidylate synthase,610,LEU,-91.50,143.65,Success
+4KY8,L,25,"A,B,C,D,E",A,Bifunctional thymidylate synthase-dihydrofolate reductase,521,LEU,-77.23,141.34,Success
+4KYA,L,23,"A,B,C,D,E,F,G,H",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-86.24,142.55,Success
+4LAE,L,21,X,X,,158,LEU,-68.71,139.21,Success
+4LAG,L,21,X,X,,158,LEU,-71.22,137.24,Success
+4LAH,L,21,X,X,,158,LEU,-69.55,134.65,Success
+4LEK,L,21,X,X,,158,LEU,-70.05,136.20,Success
+4M2X,I,23,"A,C,E,G",A,Dihydrofolate reductase,162,ILE,-104.51,132.17,Success
+4M6J,L,23,A,A,Dihydrofolate reductase,187,LEU,-74.17,148.29,Success
+4M6K,L,23,A,A,Dihydrofolate reductase,187,LEU,-75.85,154.35,Success
+4M6L,L,23,A,A,Dihydrofolate reductase,187,LEU,-69.77,152.77,Success
+4M7U,L,28,A,A,Dihydrofolate reductase,170,LEU,-83.57,132.82,Success
+4M7V,L,28,A,A,Dihydrofolate reductase,171,LEU,-78.78,128.80,Success
+4NX6,M,20,A,A,Dihydrofolate reductase,159,MET,-110.91,105.03,Success
+4NX7,M,20,A,A,Dihydrofolate reductase,159,MET,-105.30,113.92,Success
+4OR7,M,20,A,A,Dihydrofolate reductase,165,MET,-106.96,126.74,Success
+4OSG,M,20,"A,B,C,D",A,Dihydrofolate reductase,159,MET,-118.54,119.72,Success
+4P3Q,M,20,A,A,Dihydrofolate reductase,159,MET,-105.83,110.16,Success
+4P3R,M,20,A,A,Dihydrofolate reductase,159,MET,-115.40,108.41,Success
+4P66,M,20,A,A,Dihydrofolate reductase,159,MET,-109.65,108.03,Success
+4P68,M,20,A,A,Dihydrofolate reductase,159,MET,-106.62,127.93,Success
+4PDJ,M,20,A,A,Dihydrofolate reductase,159,MET,-111.39,113.90,Success
+4PTH,M,20,A,A,Dihydrofolate reductase,159,MET,-79.97,121.53,Success
+4PTJ,M,20,A,A,Dihydrofolate reductase,159,MET,-24.17,93.69,Success
+4Q0D,L,25,"A,B,C,D,E",A,Bifunctional dihydrofolate reductase-thymidylate synthase,521,LEU,-86.73,138.83,Success
+4Q0E,L,25,"A,B,C,D,E",A,Bifunctional dihydrofolate reductase-thymidylate synthase,521,LEU,-76.96,141.44,Success
+4Q67,L,21,A,A,Dihydrofolate reductase,158,LEU,-70.92,141.93,Success
+4Q6A,L,21,A,A,Dihydrofolate reductase,158,LEU,-72.55,141.07,Success
+4QHV,L,22,A,A,Dihydrofolate reductase,186,LEU,-76.18,149.33,Success
+4QJC,L,22,A,A,Dihydrofolate reductase,186,LEU,-74.28,153.30,Success
+4QJZ,L,25,D,D,water,206,LEU,-76.50,143.77,Success
+4QLE,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-63.35,143.24,Success
+4QLF,M,20,A,A,Dihydrofolate reductase,159,MET,-153.52,78.45,Success
+4QLG,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-65.49,138.03,Success
+4RGC,M,20,A,A,Dihydrofolate reductase,159,MET,-115.33,100.41,Success
+4TU5,L,20,X,X,,157,LEU,-75.24,142.55,Success
+4X5F,M,23,"A,B",A,Dihydrofolate reductase,162,MET,-65.30,144.65,Success
+4X5G,M,23,"A,B",A,Dihydrofolate reductase,162,MET,-67.71,142.91,Success
+4X5H,M,23,A,A,Dihydrofolate reductase,162,MET,-55.59,137.06,Success
+4X5I,M,23,A,A,Dihydrofolate reductase,162,MET,-60.83,137.37,Success
+4X5J,M,23,A,A,Dihydrofolate reductase,162,MET,-65.38,141.56,Success
+4XE6,L,21,X,X,,158,LEU,-71.77,133.87,Success
+4XEC,L,20,X,X,,157,LEU,-71.77,133.87,Success
+5CC9,M,20,A,A,Dihydrofolate reductase,159,MET,-111.11,97.20,Success
+5CCC,M,20,A,A,Dihydrofolate reductase,159,MET,-80.47,110.35,Success
+5E8Q,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-74.91,149.48,Success
+5EAJ,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-73.90,145.91,Success
+5ECC,I,21,"A,B",A,Dehydrofolate reductase type I,157,ILE,-91.04,115.12,Success
+5ECX,I,21,"A,B",A,Dehydrofolate reductase type I,157,ILE,-94.03,114.94,Success
+5FDA,M,24,A,A,Dihydrofolate reductase,163,MSE,-85.68,119.25,Success
+5HF0,L,20,X,X,,157,LEU,-78.99,135.85,Success
+5HF2,L,20,X,X,,157,LEU,-71.47,131.16,Success
+5HI6,M,24,"A,B",A,Dihydrofolate reductase,163,MSE,-63.34,135.62,Success
+5HPB,L,22,A,A,Dihydrofolate reductase,186,LEU,-80.70,151.55,Success
+5HQY,L,22,A,A,Dihydrofolate reductase,186,LEU,-76.57,160.02,Success
+5HQZ,L,22,A,A,Dihydrofolate reductase,186,LEU,-73.39,154.99,Success
+5HSR,L,22,A,A,Dihydrofolate reductase,186,LEU,-70.38,154.51,Success
+5HSU,L,22,A,A,Dihydrofolate reductase,186,LEU,-77.62,154.83,Success
+5HT4,L,22,A,A,Dihydrofolate reductase,186,LEU,-71.12,146.09,Success
+5HT5,L,22,A,A,Dihydrofolate reductase,186,LEU,-75.69,146.30,Success
+5HUI,L,22,A,A,Dihydrofolate reductase,186,LEU,-74.70,158.04,Success
+5HVB,L,22,A,A,Dihydrofolate reductase,186,LEU,-75.34,156.86,Success
+5HVE,L,22,A,A,Dihydrofolate reductase,186,LEU,-58.96,145.10,Success
+5ISP,L,20,X,X,,157,LEU,-75.89,140.77,Success
+5ISQ,L,20,X,X,,157,LEU,-76.27,139.75,Success
+5IST,L,20,X,X,,157,LEU,-73.83,137.15,Success
+5JA3,I,20,"A,B,C,D",A,Dihydrofolate reductase,159,ILE,-81.16,119.02,Success
+5JG0,L,20,X,X,,157,LEU,-73.43,138.90,Success
+5SCM,I,40,A,A,Dihydrofolate reductase,179,ILE,-91.33,125.37,Success
+5SCN,I,40,A,A,Dihydrofolate reductase,179,ILE,-99.70,125.25,Success
+5SCO,I,40,A,A,Dihydrofolate reductase,179,ILE,-86.90,127.51,Success
+5SCP,I,40,"A,B",A,Dihydrofolate reductase,179,ILE,-97.54,124.44,Success
+5SCQ,I,40,A,A,Dihydrofolate reductase,179,ILE,-96.57,125.10,Success
+5SCR,I,40,A,A,Dihydrofolate reductase,179,ILE,-91.47,122.69,Success
+5SCS,I,40,A,A,Dihydrofolate reductase,179,ILE,-96.77,123.71,Success
+5SCT,I,40,A,A,Dihydrofolate reductase,179,ILE,-87.13,127.27,Success
+5SCU,I,40,A,A,Dihydrofolate reductase,179,ILE,-96.36,127.23,Success
+5SCV,I,40,"A,B",A,Dihydrofolate reductase,179,ILE,-100.02,126.64,Success
+5SCW,I,40,A,A,Dihydrofolate reductase,179,ILE,-92.72,123.79,Success
+5SCX,I,40,A,A,Dihydrofolate reductase,179,ILE,-95.29,127.85,Success
+5SCY,I,40,A,A,Dihydrofolate reductase,179,ILE,-96.56,126.06,Success
+5SCZ,I,40,A,A,Dihydrofolate reductase,179,ILE,-91.33,127.39,Success
+5SD0,I,40,A,A,Dihydrofolate reductase,179,ILE,-94.60,125.87,Success
+5SD1,I,40,A,A,Dihydrofolate reductase,179,ILE,-96.92,124.75,Success
+5SD2,I,40,A,A,Dihydrofolate reductase,179,ILE,-101.15,123.25,Success
+5SD3,I,40,A,A,Dihydrofolate reductase,179,ILE,-95.96,126.01,Success
+5SD4,I,40,A,A,Dihydrofolate reductase,179,ILE,-90.43,127.08,Success
+5SD5,I,40,A,A,Dihydrofolate reductase,179,ILE,-100.86,126.91,Success
+5SD6,L,23,A,A,Dihydrofolate reductase,187,LEU,-68.64,149.44,Success
+5SD7,L,23,A,A,Dihydrofolate reductase,187,LEU,-73.59,152.11,Success
+5SD8,L,23,A,A,Dihydrofolate reductase,187,LEU,-72.45,148.27,Success
+5SD9,L,23,A,A,Dihydrofolate reductase,187,LEU,-72.67,150.49,Success
+5SDA,L,23,A,A,Dihydrofolate reductase,187,LEU,-73.07,151.92,Success
+5SDB,L,23,"A,B",A,Dihydrofolate reductase,187,LEU,-78.30,151.25,Success
+5SSS,M,20,A,A,Dihydrofolate reductase,159,MET,-116.99,93.99,Success
+5SST,M,20,A,A,Dihydrofolate reductase,159,MET,-112.76,96.76,Success
+5SSU,M,20,A,A,Dihydrofolate reductase,159,MET,-111.74,101.96,Success
+5SSV,M,20,A,A,Dihydrofolate reductase,159,MET,-112.64,101.71,Success
+5SSW,M,20,A,A,Dihydrofolate reductase,159,MET,-114.32,96.69,Success
+5T0L,L,23,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-85.52,139.16,Success
+5U26,I,40,A,A,Dihydrofolate reductase,179,ILE,-101.50,125.62,Success
+5U27,I,40,A,A,Dihydrofolate reductase,179,ILE,-101.90,121.20,Success
+5UIH,M,20,A,A,Dihydrofolate reductase,159,MET,-63.56,143.75,Success
+5UII,M,20,A,A,Dihydrofolate reductase,159,MET,-67.53,144.29,Success
+5UIO,M,21,"A,B,C,D,E",A,Dihydrofolate reductase,160,MET,-65.02,137.71,Success
+5UIP,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-65.34,141.09,Success
+5UJF,I,41,A,A,Dihydrofolate reductase,180,ILE,-133.59,113.05,Success
+5UJX,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-72.91,148.23,Success
+5W3Q,M,20,A,A,Dihydrofolate reductase,159,MET,-101.00,111.40,Success
+5Z6F,M,23,A,A,Dihydrofolate reductase,162,MET,-101.40,111.33,Success
+5Z6J,M,23,A,A,Dihydrofolate reductase,162,MET,-92.60,119.74,Success
+5Z6K,M,23,A,A,Dihydrofolate reductase,162,MET,-80.95,124.83,Success
+5Z6L,M,23,A,A,Dihydrofolate reductase,162,MET,-74.11,125.91,Success
+5Z6M,M,23,A,A,Dihydrofolate reductase,162,MET,-158.06,92.06,Success
+6A7C,L,22,A,A,Dihydrofolate reductase,186,LEU,-75.22,143.06,Success
+6A7E,L,22,A,A,Dihydrofolate reductase,186,LEU,-75.44,151.04,Success
+6AOG,L,23,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-84.61,134.74,Success
+6AOH,L,23,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-75.61,141.73,Success
+6AOI,L,23,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-93.42,135.40,Success
+6CQA,M,20,A,A,Dihydrofolate reductase,159,MET,-58.57,140.98,Success
+6CW7,M,20,A,A,Dihydrofolate reductase,162,MET,-71.76,151.46,Success
+6CXK,M,20,A,A,Dihydrofolate reductase,165,MET,-84.82,159.09,Success
+6CXM,I,29,"A,B",A,Dihydrofolate reductase,164,ILE,-97.88,128.61,Success
+6DAV,L,23,"A,B",A,Dihydrofolate reductase,187,LEU,-78.30,151.25,Success
+6DDP,I,20,"A,B,C,D",A,Dihydrofolate reductase,159,ILE,-88.56,121.01,Success
+6DDS,I,20,"A,B,C,D",A,Dihydrofolate reductase,159,ILE,-85.36,116.81,Success
+6DDW,I,22,A,A,Dihydrofolate reductase,161,ILE,-101.68,120.51,Success
+6DE4,L,22,"A,B",A,Dihydrofolate reductase,186,LEU,-66.10,144.69,Success
+6DRS,L,32,A,A,"Dihydrofolate reductase, putative",247,LEU,-80.23,161.09,Success
+6DTC,L,32,A,A,Dihydrofolate reductase,247,LEU,-84.67,155.28,Success
+6E4E,L,44,A,A,Dihydrofolate reductase,182,LEU,-82.53,135.72,Success
+6MR9,M,20,A,A,Dihydrofolate reductase,162,MET,,120.62,Success
+6MT8,M,20,A,A,Dihydrofolate reductase,162,MET,,120.62,Success
+6MTH,M,20,A,A,Dihydrofolate reductase,162,MET,,120.62,Success
+6N1S,L,23,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-85.93,149.89,Success
+6N1T,L,23,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,566,LEU,-75.61,141.73,Success
+6ND2,L,20,X,X,,157,LEU,-75.20,130.34,Success
+6NNC,I,20,"A,B",A,Dihydrofolate reductase,159,ILE,-126.75,131.32,Success
+6NND,I,20,"A,B",A,Dihydrofolate reductase,159,ILE,-122.91,129.56,Success
+6NNE,I,20,"A,B",A,Dihydrofolate reductase,159,ILE,-123.07,130.30,Success
+6NNH,I,20,"A,B",A,Dihydrofolate reductase,159,ILE,-125.13,129.26,Success
+6NNI,I,20,"A,B",A,Dihydrofolate reductase,159,ILE,-126.03,130.26,Success
+6P9Z,L,20,X,X,,157,LEU,-83.55,146.20,Success
+6PBO,L,20,X,X,,157,LEU,-70.38,135.38,Success
+6PR6,L,21,A,A,Dihydrofolate reductase,163,LEU,-67.98,135.84,Success
+6PR7,L,21,A,A,Dihydrofolate reductase,163,LEU,-69.91,135.93,Success
+6PR8,L,20,A,A,Dihydrofolate reductase,162,LEU,-66.06,133.14,Success
+6PR9,L,20,A,A,Dihydrofolate reductase,162,LEU,-69.76,134.34,Success
+6PRA,L,21,A,A,Dihydrofolate reductase,163,LEU,-70.02,138.00,Success
+6PRB,L,20,A,A,Dihydrofolate reductase,162,LEU,-66.36,131.79,Success
+6PRD,L,20,A,A,Dihydrofolate reductase,162,LEU,-68.36,133.15,Success
+6UWQ,I,30,A,A,Dihydrofolate reductase,173,ILE,-110.54,122.12,Success
+6UWW,I,30,A,A,Dihydrofolate reductase,173,ILE,-111.13,122.38,Success
+6VCJ,L,24,"A,B,C,D",A,Dihydrofolate reductase,188,LEU,-79.71,145.83,Success
+6VS5,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-122.83,131.60,Success
+6VS6,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-100.26,122.85,Success
+6VS8,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-131.28,131.08,Success
+6VS9,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-106.91,120.57,Success
+6VSD,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-126.58,129.69,Success
+6VSE,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-128.70,130.99,Success
+6VSF,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-129.15,130.14,Success
+6VSG,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-106.87,122.17,Success
+6VV6,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-128.62,122.27,Success
+6VV7,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-120.63,129.87,Success
+6VV8,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-96.19,126.74,Success
+6VV9,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-131.94,127.58,Success
+6VVB,I,22,A,A,Dihydrofolate reductase,161,ILE,-99.49,126.68,Success
+6XG4,M,20,A,A,Dihydrofolate reductase,159,MET,-87.24,113.05,Success
+6XG5,M,20,A,A,Dihydrofolate reductase,159,MET,-85.52,125.13,Success
+7CTW,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,606,LEU,-75.77,144.99,Success
+7D3Z,M,20,A,A,Dihydrofolate reductase,159,MET,-104.87,100.53,Success
+7D49,M,20,A,A,Dihydrofolate reductase,159,MET,-125.04,54.85,Success
+7D4L,M,20,A,A,Dihydrofolate reductase,159,MET,-110.50,114.54,Success
+7D4X,M,20,A,A,Dihydrofolate reductase,159,MET,-28.54,123.81,Success
+7D6G,M,20,A,A,Dihydrofolate reductase,159,MET,-116.90,107.36,Success
+7DFR,M,20,A,A,DIHYDROFOLATE REDUCTASE,159,MET,-108.25,112.34,Success
+7ESE,L,40,A,A,Dihydrofolate reductase,204,LEU,-79.12,147.31,Success
+7F3B,M,20,A,A,Dihydrofolate reductase,159,MET,60.49,-163.17,Success
+7F3Y,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-74.44,145.51,Success
+7F3Z,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,608,LEU,-72.33,137.63,Success
+7FGW,L,23,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,606,LEU,-82.46,150.87,Success
+7FGX,L,23,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,606,LEU,-82.26,152.71,Success
+7FGY,L,23,"A,B,C,D",A,Bifunctional dihydrofolate reductase-thymidylate synthase,606,LEU,-79.32,146.95,Success
+7FPL,M,20,A,A,Dihydrofolate reductase,159,MET,-113.53,98.73,Success
+7FPM,M,20,A,A,Dihydrofolate reductase,159,MET,-114.39,99.96,Success
+7FPN,M,20,A,A,Dihydrofolate reductase,159,MET,-113.87,97.73,Success
+7FPO,M,20,A,A,Dihydrofolate reductase,159,MET,-115.53,103.88,Success
+7FPP,M,20,A,A,Dihydrofolate reductase,159,MET,-115.75,100.40,Success
+7FPQ,M,20,A,A,Dihydrofolate reductase,159,MET,-116.26,97.75,Success
+7FPR,M,20,A,A,Dihydrofolate reductase,159,MET,-116.08,97.10,Success
+7FPS,M,20,A,A,Dihydrofolate reductase,159,MET,-114.56,99.80,Success
+7FPT,M,20,A,A,Dihydrofolate reductase,159,MET,-117.67,98.39,Success
+7FPU,M,20,A,A,Dihydrofolate reductase,159,MET,-117.00,96.64,Success
+7FPV,M,20,A,A,Dihydrofolate reductase,159,MET,-115.19,100.27,Success
+7FPW,M,20,A,A,Dihydrofolate reductase,159,MET,-115.73,98.59,Success
+7FPX,M,20,A,A,Dihydrofolate reductase,159,MET,-117.60,98.44,Success
+7FPY,M,20,A,A,Dihydrofolate reductase,159,MET,-114.03,100.86,Success
+7FPZ,M,20,A,A,Dihydrofolate reductase,159,MET,-110.95,102.26,Success
+7FQ0,M,20,A,A,Dihydrofolate reductase,159,MET,-111.47,101.62,Success
+7FQ1,M,20,A,A,Dihydrofolate reductase,159,MET,-113.12,100.22,Success
+7FQ2,M,20,A,A,Dihydrofolate reductase,159,MET,-113.55,101.10,Success
+7FQ3,M,20,A,A,Dihydrofolate reductase,159,MET,-116.01,100.19,Success
+7FQ4,M,20,A,A,Dihydrofolate reductase,159,MET,-110.24,103.43,Success
+7FQ5,M,20,A,A,Dihydrofolate reductase,159,MET,-109.99,100.49,Success
+7FQ6,M,20,A,A,Dihydrofolate reductase,159,MET,-111.89,104.35,Success
+7FQ7,M,20,A,A,Dihydrofolate reductase,159,MET,-116.33,101.86,Success
+7FQ8,M,20,A,A,Dihydrofolate reductase,159,MET,-116.40,100.70,Success
+7FQ9,M,20,A,A,Dihydrofolate reductase,159,MET,-116.24,98.94,Success
+7FQA,M,20,A,A,Dihydrofolate reductase,159,MET,-114.66,99.03,Success
+7FQB,M,20,A,A,Dihydrofolate reductase,159,MET,-115.07,99.68,Success
+7FQC,M,20,A,A,Dihydrofolate reductase,159,MET,-116.02,100.01,Success
+7FQD,M,20,A,A,Dihydrofolate reductase,159,MET,-114.39,97.62,Success
+7FQE,M,20,A,A,Dihydrofolate reductase,159,MET,-116.92,98.36,Success
+7FQF,M,20,A,A,Dihydrofolate reductase,159,MET,-115.69,101.59,Success
+7FQG,M,20,A,A,Dihydrofolate reductase,159,MET,-116.56,98.84,Success
+7K62,I,28,"A,B",A,Dihydrofolate reductase,167,ILE,-88.26,113.31,Success
+7K68,I,30,A,A,Dihydrofolate reductase,173,ILE,-110.05,125.60,Success
+7K69,I,30,A,A,Dihydrofolate reductase,173,ILE,-112.43,123.04,Success
+7K6A,I,30,A,A,Dihydrofolate reductase,173,ILE,-108.96,122.48,Success
+7K6C,I,31,"A,B,C,D,E,F,G",A,Dihydrofolate reductase,169,ILE,-93.03,119.76,Success
+7KI8,I,30,A,A,Dihydrofolate reductase,173,ILE,-109.30,121.90,Success
+7KI9,I,30,A,A,Dihydrofolate reductase,173,ILE,-108.64,123.22,Success
+7KM7,I,30,A,A,Dihydrofolate reductase,173,ILE,-106.94,127.06,Success
+7KM8,I,30,"A,B",A,Dihydrofolate reductase,173,ILE,-107.08,127.05,Success
+7KM9,I,30,A,A,Dihydrofolate reductase,173,ILE,-107.12,127.88,Success
+7L9T,I,29,A,A,Dihydrofolate reductase,164,ILE,-109.42,125.22,Success
+7LVC,M,20,A,A,Dihydrofolate reductase,159,MET,-108.90,117.43,Success
+7MQP,M,20,A,A,Dihydrofolate reductase,161,MET,-93.54,164.35,Success
+7MYL,I,21,"A,B,C,D,E,F",A,Dihydrofolate reductase,157,ILE,-74.17,120.38,Success
+7MYM,M,20,"A,B,C",A,Dihydrofolate reductase,158,MET,-106.43,117.81,Success
+7NAE,M,20,A,A,Dihydrofolate reductase,159,MET,161.56,-141.64,Success
+7R6G,I,21,"A,B",A,Dihydrofolate reductase type 5,157,ILE,-99.68,115.37,Success
+7REB,M,20,A,A,Dihydrofolate reductase,161,MET,-90.64,148.55,Success
+7REG,I,21,"A,B",A,Dihydrofolate reductase type 1,157,ILE,-91.11,119.39,Success
+7RGJ,I,21,"A,B",A,Dihydrofolate reductase type 1,156,ILE,-86.95,115.84,Success
+7RGK,I,21,"A,B",A,Dihydrofolate reductase type 5,157,ILE,-95.39,117.00,Success
+7RGO,I,21,"A,B",A,Dihydrofolate reductase type 5,157,ILE,-90.54,115.15,Success
+7RZO,M,29,A,A,Dihydrofolate reductase,171,MET,-63.97,141.95,Success
+7T7Q,L,20,X,X,,157,LEU,-72.56,129.60,Success
+7T7S,L,20,X,X,,157,LEU,-72.56,129.60,Success
+7TJ3,M,29,A,A,Dihydrofolate reductase,171,MET,-80.50,158.59,Success
+7XI7,L,23,A,A,Dihydrofolate reductase,187,LEU,-65.06,134.99,Success
+7ZZX,L,26,B,B,water,204,LEU,68.71,110.27,Success
+8A0N,L,35,B,B,NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE,212,LEU,-135.24,137.21,Success
+8A0Z,L,26,"A,B",A,Dihydrofolate reductase,204,LEU,-103.26,119.29,Success
+8COP,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-128.54,130.85,Success
+8COQ,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-130.42,127.03,Success
+8COW,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-109.64,114.60,Success
+8COX,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-127.76,135.86,Success
+8CQ8,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-131.73,123.12,Success
+8CQ9,I,22,"A,B",A,Dihydrofolate reductase,161,ILE,-129.19,132.03,Success
+8CQA,I,20,"A,B",A,Dihydrofolate reductase,159,ILE,-128.29,126.95,Success
+8CRH,L,30,"A,B",A,Dihydrofolate reductase,208,LEU,-84.30,132.82,Success
+8DAE,L,57,A,A,Bifunctional dihydrofolate reductase-thymidylate synthase 1,529,LEU,-97.60,127.38,Success
+8DAI,M,20,A,A,Dihydrofolate reductase,159,MET,-115.14,123.39,Success
+8DFR,L,22,A,A,DIHYDROFOLATE REDUCTASE,186,LEU,-82.30,153.71,Success
+8E4F,M,35,A,A,Dihydrofolate reductase,193,MET,-91.77,142.26,Success
+8F09,L,22,"A,B",A,Dihydrofolate reductase,167,LEU,-72.51,174.66,Success
+8F80,I,30,A,A,Dihydrofolate reductase,173,ILE,-122.33,124.45,Success
+8F81,I,30,A,A,Dihydrofolate reductase,173,ILE,-112.24,122.90,Success
+8F82,I,30,A,A,Dihydrofolate reductase,173,ILE,-119.89,124.71,Success
+8F83,I,30,A,A,Dihydrofolate reductase,173,ILE,-118.70,120.52,Success
+8F84,I,30,A,A,Dihydrofolate reductase,173,ILE,-116.96,123.38,Success
+8F85,I,30,A,A,Dihydrofolate reductase,173,ILE,-117.82,126.16,Success
+8G4Z,M,20,A,A,Dihydrofolate reductase,159,MET,-108.14,104.44,Success
+8G50,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-110.01,97.49,Success
+8RHT,I,50,A,A,Bifunctional dihydrofolate reductase-thymidylate synthase,242,ILE,-51.15,131.90,Success
+8SSX,L,21,A,A,Dihydrofolate reductase,162,LEU,-70.60,149.88,Success
+8SZD,M,25,A,A,Dihydrofolate reductase,164,MET,-84.67,118.74,Success
+8TA0,I,30,A,A,Dihydrofolate reductase,173,ILE,-118.07,124.20,Success
+8TA1,I,30,A,A,Dihydrofolate reductase,173,ILE,-113.10,123.02,Success
+8TBR,I,30,A,A,Dihydrofolate reductase,173,ILE,-118.66,122.93,Success
+8UCX,M,20,A,A,Dihydrofolate reductase,159,MET,-139.07,81.45,Success
+8UVZ,L,20,A,A,Dihydrofolate reductase,160,LEU,-77.19,151.18,Success
+8UW0,M,20,A,A,Dihydrofolate reductase,159,MET,-93.54,123.31,Success
+8VTC,I,24,A,A,Dihydrofolate reductase,167,ILE,-86.55,122.84,Success
+8VZ4,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-71.51,143.76,Success
+8WGM,L,46,"A,B",A,Bifunctional dihydrofolate reductase-thymidylate synthase,605,LEU,-72.80,151.87,Success
+8WGN,L,23,A,A,Dihydrofolate reductase,187,LEU,-69.79,143.82,Success
+9DAR,M,22,A,A,Dihydrofolate reductase,161,MET,-60.94,-40.99,Success
+9KZ4,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-100.66,127.61,Success
+9MLM,M,35,A,A,Dihydrofolate reductase,193,MET,-80.02,141.90,Success
+9MLT,M,35,A,A,Dihydrofolate reductase,193,MET,-89.28,140.05,Success
+9NI0,M,20,"A,B",A,Dihydrofolate reductase,159,MET,-70.00,145.16,Success
+9ONI,M,35,A,A,dihydrofolate reductase,192,MET,-89.64,142.29,Success
+9OOI,M,35,"A,B,C",A,dihydrofolate reductase,193,MET,-89.14,142.95,Success
+9PXC,M,20,A,A,Dihydrofolate reductase,159,MET,,90.94,Success
