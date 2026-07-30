@@ -2,7 +2,7 @@
 
 Analytical kinetic model of GroEL/S rescue of TMP-inhibited M20I DHFR via
 conformational gating of the M20 loop. Code reproduces the publication figures
-listed below (PNG only).
+listed below.
 
 ## Model
 
