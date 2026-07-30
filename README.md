@@ -1,4 +1,4 @@
-# GroEL_DHFR
+# Protein dynamics gate client recognition to enable functional plasticity of GroEL/S
 
 Code accompanying the preprint:
 
