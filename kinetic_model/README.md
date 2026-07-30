@@ -4,13 +4,6 @@ Analytical kinetic model of GroEL/S rescue of TMP-inhibited M20I DHFR via
 conformational gating of the M20 loop. Code reproduces the publication figures
 listed below (PNG only).
 
-Part of the code release for:
-
-> **Chaperonin recognition of protein dynamics drives drug resistance**  
-> https://www.biorxiv.org/content/10.64898/2026.06.03.729952v1
-
-This GitHub repository ([junlangliu/GroEL_DHFR](https://github.com/junlangliu/GroEL_DHFR)) hosts the paper’s bioinformatics and modeling code. Experimental raw data and data-processing code are deposited on Zenodo and will be made public upon publication.
-
 ## Model
 
 The model is built on five premises:
