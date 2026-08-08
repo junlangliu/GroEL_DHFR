@@ -747,10 +747,11 @@ def main():
     parser.add_argument("--threshold", type=float, default=128.39)
     args = parser.parse_args()
 
-    species_csv = MSA_DIR / "pdb_aa_list_pos20.csv"
-    aligned_fasta = ROOT / "dhfr_sequences_hmmer_aligned.fasta"
-    dihedral_csv = ANALYSIS_DIR / "dihedral_angles_pos20.csv"
-    classification_csv = ANALYSIS_DIR / "ligand_classification.csv"
+    data_dir = ROOT / "data"
+    species_csv = data_dir / "pdb_aa_list_pos20_591.csv"
+    aligned_fasta = data_dir / "dhfr_sequences_hmmer_aligned.fasta"
+    dihedral_csv = data_dir / "dihedral_angles_pos20.csv"
+    classification_csv = data_dir / "ligand_classification.csv"
     output_path = Path(args.output) if args.output else ROOT / "summary_panel.pdf"
 
     for path, label in [

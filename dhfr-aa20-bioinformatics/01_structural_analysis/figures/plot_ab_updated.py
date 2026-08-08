@@ -13,7 +13,7 @@ import numpy as np
 import pandas as pd
 
 HERE = Path(__file__).resolve().parent
-DATA_CSV = HERE / "pdb_aa_list_pos20_591.csv"
+DATA_CSV = HERE.parent / "data" / "pdb_aa_list_pos20_591.csv"
 OUT_BASE = HERE / "summary_panel_AB_v2"
 
 FONT_FAMILY = "Arial"

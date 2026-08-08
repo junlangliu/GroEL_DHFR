@@ -257,8 +257,12 @@ if __name__ == "__main__":
     
     # Set default paths
     if args.dihedral is None:
-        args.dihedral = Path(__file__).parent / "dihedral_angles_pos20.csv"
+        args.dihedral = Path(__file__).parent / "data" / "dihedral_angles_pos20.csv"
     if args.dhfr is None:
+        # NOTE: dhfr_entries_cleaned.csv (raw per-structure ligand annotations,
+        # with `pdb_id`/`ligands` columns) is not part of the packaged data/
+        # directory and has no equivalent file here; this default will not
+        # resolve unless --dhfr is passed explicitly.
         args.dhfr = Path(__file__).parent.parent / "pdb_extraction" / "dhfr_entries_cleaned.csv"
     
     process_entries(
