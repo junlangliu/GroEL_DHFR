@@ -24,9 +24,9 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 from plot_psi_by_ligand_category import categorize_entry  # noqa: E402
 
-DATA_NEW   = HERE / "pdb_aa_list_pos20_591.csv"
-DIHEDRAL   = HERE / "dihedral_angles_pos20.csv"
-CLASSIF    = HERE / "ligand_classification.csv"
+DATA_NEW   = HERE.parent / "data" / "pdb_aa_list_pos20_591.csv"
+DIHEDRAL   = HERE.parent / "data" / "dihedral_angles_pos20.csv"
+CLASSIF    = HERE.parent / "data" / "ligand_classification.csv"
 OUT_BASE   = HERE / "summary_panel_v2"
 
 # ── shared style ─────────────────────────────────────────────────────────────

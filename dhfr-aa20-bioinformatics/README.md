@@ -2,10 +2,15 @@
 
 Bioinformatics code and processed data for the analysis of residue position 20
 (AA20) in dihydrofolate reductase (DHFR) and its relationship to trimethoprim
-(TMP) resistance.
+(TMP) resistance. Part of the `GroEL_DHFR` repository accompanying the
+preprint:
 
-This repository accompanies the manuscript:
-> **[Title]** — [Authors] — [Journal, Year]
+> **Chaperonin recognition of protein dynamics drives drug resistance**
+> Junlang Liu et al. — bioRxiv (2026)
+> https://www.biorxiv.org/content/10.64898/2026.06.03.729952v1
+
+See also [`../kinetic_model/`](../kinetic_model/) for the analytical kinetic
+model of GroEL/S rescue used elsewhere in the paper.
 
 ---
 
@@ -14,7 +19,7 @@ This repository accompanies the manuscript:
 ```
 dhfr-aa20-bioinformatics/
 ├── 01_structural_analysis/   # PDB dihedral angles and ligand context at AA20
-├── 02_sequence_database/     # AA20 usage in folA vs dfrA sequence families
+├── 02_sequence_database/     # Genome-wide folA vs dfrA divergence (Fisher exact + BH-FDR)
 ├── 03_fitness_analysis/      # TMP-fitness from broad mutational scanning data
 └── docs/
     └── methods.md            # Complete bioinformatics methods (supplementary)
@@ -30,7 +35,7 @@ family using three complementary approaches:
 | Module | Question | Data Source |
 |--------|----------|-------------|
 | [01 Structural](01_structural_analysis/) | How do φ/ψ angles and ligand context at AA20 vary with residue identity (M/L/I)? | 591 PDB crystal structures |
-| [02 Sequence Database](02_sequence_database/) | How does AA20 usage differ between broad folA homologs and acquired-resistance dfrA sequences? | UniProtKB + Pfam PF00186 |
+| [02 Sequence Database](02_sequence_database/) | Does the natural dfr resistance family already carry the residues — above all M20I — that lab evolution selects, genome-wide across every aligned position? | NCBI AMRFinderPlus (60 dfr representatives) + UniProt (804 chromosomal folA) |
 | [03 Fitness](03_fitness_analysis/) | What are the TMP-resistance fitness consequences of M/L/I at AA20 across diverse DHFR backgrounds? | Romanowicz et al. 2025 BMS data |
 
 ---
@@ -77,17 +82,25 @@ Download mmCIF files for the 591 PDB entries listed in
 `01_structural_analysis/data/pdb_aa_list_pos20_591.csv` from
 [RCSB PDB](https://www.rcsb.org/) before running `extract_dihedral_angles.py`.
 
-### Module 02: UniProtKB sequences
+### Module 02: dfr resistance family + chromosomal folA background
 
-Sequences were queried from UniProtKB (2024 release) using:
-```
-gene:dfr* OR gene:dhfr*
-OR protein_name:"trimethoprim-resistant dihydrofolate reductase"
-OR protein_name:"DfrA family"
-```
-The folA background set was derived from the Pfam DHFR seed (PF00186) with
-MMseqs2 clustering at threshold 0.5. See `02_sequence_database/README.md` for
-the full protocol.
+The dfr resistance-enzyme set was built from the **NCBI AMRFinderPlus**
+reference DB 4.2 (release 2026-05-15.1; `AMRProt.fa` +
+`ReferenceGeneCatalog.txt`, downloaded live by the script), filtered to
+`subtype=AMR` with `subclass` containing TRIMETHOPRIM and the dfrB clade
+excluded, then collapsed to 60 representatives at ≥90% identity.
+
+The chromosomal folA background was queried from **UniProt** across Bacteria
+(`gene:folA OR protein_name:"dihydrofolate reductase"`), filtered for label
+purity (headers mentioning dfr/trimethoprim dropped), dereplicated with
+`cd-hit` (90% identity → safeguard filter against the dfr representatives →
+50% identity for broad, non-redundant sampling; 817 final sequences, 804 of
+which are distinct from the folA profile MSA).
+
+Both sets are mapped onto a fixed folA profile MSA anchored to E. coli DHFR
+(P0ABQ4) coordinates via `mafft --keeplength --add`. See
+`02_sequence_database/README.md` for the full protocol and
+`02_sequence_database/01_build_sequence_sets.py` for exact commands.
 
 ---
 
@@ -105,8 +118,7 @@ the full protocol.
 ## Quick Start
 
 ```bash
-# Clone the repository
-git clone https://github.com/<org>/dhfr-aa20-bioinformatics.git
+# From the GroEL_DHFR repository root
 cd dhfr-aa20-bioinformatics
 
 # Install dependencies
@@ -116,7 +128,10 @@ pip install -r requirements.txt
 cd 01_structural_analysis/figures
 python plot_summary_panel_v2.py
 
-cd ../../03_fitness_analysis/iml_violin_trend
+cd ../../02_sequence_database
+python 03_fisher_and_figures.py
+
+cd ../03_fitness_analysis/iml_violin_trend
 python plot_iml_violin_trend.py
 ```
 
@@ -130,9 +145,9 @@ python plot_iml_violin_trend.py
 Python ≥ 3.9. See `requirements.txt` for the full package list.
 
 External tools (for rerunning the full pipeline from raw inputs):
-- [HMMER](http://hmmer.org/) ≥ 3.3 — with Pfam model `PF00186.hmm`
-- [MAFFT](https://mafft.cbrc.jp/alignment/software/) ≥ 7.0
-- [MMseqs2](https://github.com/soedinglab/MMseqs2) — for folA clustering
+- [HMMER](http://hmmer.org/) ≥ 3.3 — with Pfam model `PF00186.hmm` (module 01, PDB entry filtering)
+- [MAFFT](https://mafft.cbrc.jp/alignment/software/) ≥ 7.5 — for E. coli-anchored alignment (module 02)
+- [cd-hit](https://github.com/weizhongli/cdhit) — for folA/dfr sequence dereplication (module 02)
 
 ---
 
@@ -146,12 +161,14 @@ are in [`docs/methods.md`](docs/methods.md).
 ## Citation
 
 If you use this code or the processed result tables, please cite:
-> [Full citation to be added upon publication]
+> Liu J, et al. "Chaperonin recognition of protein dynamics drives drug
+> resistance." bioRxiv (2026).
+> https://www.biorxiv.org/content/10.64898/2026.06.03.729952v1
 
-Also cite the original BMS dataset:
+Also cite the original BMS dataset used in Module 03:
 > Romanowicz JM, Resnick SJ, Hinton ER, Plesa C.
 > *Science Advances* 2025. DOI: 10.1126/sciadv.adw9178
 
 ## License
 
-[License TBD]
+MIT — see the [`LICENSE`](../LICENSE) file at the repository root.

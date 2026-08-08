@@ -185,40 +185,35 @@ Positive delta values indicate higher mutant fitness than the matched reference 
 
 ## folA versus dfrA Sequence-Database Analysis
 
-The folA/dfrA AA20 comparison was independent of the barcode fitness analysis and did not use pooled assay counts. It was designed to estimate amino-acid usage at the P0ABQ4/E. coli folA reference position 20 in broader folA homolog and dfrA-family sequence sets.
+The folA/dfrA genome-wide divergence analysis was independent of the barcode fitness analysis and did not use pooled assay counts. It was designed to test, at every aligned residue position of the DHFR fold (not only AA20), whether amino-acid usage differs between the broad chromosomal folA background and the naturally horizontally-transferred dfr trimethoprim-resistance family, and whether any such differences recapitulate the lab-evolved M20I substitution. Full code and shipped intermediate files are in `02_sequence_database/`.
 
-Candidate dfr/dhfr/trimethoprim-resistant sequences were downloaded from UniProtKB using:
+### dfr resistance-enzyme set
 
-```text
-gene:dfr* OR gene:dhfr*
-OR protein_name:"trimethoprim-resistant dihydrofolate reductase"
-OR protein_name:"DfrA family"
-OR protein_name:"trimethoprim-resistant"
-```
+The dfr set was built from the NCBI AMRFinderPlus reference database (release 4.2, 2026-05-15.1: `AMRProt.fa` + `ReferenceGeneCatalog.txt`, downloaded live from `ftp.ncbi.nlm.nih.gov`). Reference-catalog entries were filtered to `subtype == "AMR"` with `subclass` containing `TRIMETHOPRIM`, and entries whose gene-family root matched `dfrB` were excluded (dfrB is a structurally unrelated type-II DHFR and not a homolog of chromosomal folA). Matching protein sequences were pulled from `AMRProt.fa` by RefSeq protein accession, giving 113 dfr entries (`00_dfr_all_catalog.faa`). Near-identical alleles were collapsed with a BLOSUM62 global pairwise alignment (gap open −11, gap extend −1); sequences were processed longest-first, and a sequence was kept as a new representative only if its percent identity to every already-kept representative was below 90%. This yielded 60 dfr representatives (`02_dfr_representatives_60.faa`).
 
-This query returned 125,000 raw records. Exact-sequence deduplication produced 124,064 unique records. DHFR-family domains were identified with HMMER using the Pfam DHFR model `PF00186.hmm`:
+### Chromosomal folA background set
 
-```text
-hmmsearch --cpu 8 -E 1e-3 --domtblout dfr_pf00186.domtblout PF00186.hmm dfr_uniprot_all.fasta
-```
+The folA background was queried from UniProt across Bacteria (`gene:folA OR protein_name:"dihydrofolate reductase"`, reviewed + unreviewed, REST stream). Headers mentioning `dfr` or `trimethoprim` were dropped for label purity. The set was dereplicated at 90% identity (`cd-hit -c 0.90 -aS 0.8 -n 5`), then a sequence-level safeguard removed anything ≥60% identical (BLOSUM62 global) to any of the 60 dfr representatives, giving 9,665 sequences (`00_folA_broad_derep90_9665.faa`). This was clustered at 50% identity (`cd-hit -c 0.5 -n 2`) for broad, non-redundant sampling, giving 817 final sequences (`01_folA_chromosomal_c50_817.faa`); 804 of these are distinct from the profile MSA described below (13 already appear in it).
 
-All domain HSPs passing the domain-length threshold were extracted, including multiple domains from multi-domain proteins. Sequences containing `*` or `-` were removed, and extracted domain sequences were deduplicated. The final filtered dfr-family domain set contained 2,331 unique sequences.
+### Alignment to E. coli DHFR coordinates
 
-The folA comparison set was derived from a Pfam-clean DHFR/folA sequence collection clustered with MMseqs2 at threshold 0.5. The representative set contained 1,354 sequences, and 1,355 sequences after adding the P0ABQ4/E. coli folA reference.
+A 134-row folA profile MSA (296 columns, containing the E. coli DHFR reference P0ABQ4) defines a fixed coordinate system (`03_folA_profile_msa_134x296.faa`). Both the 817 folA and 60 dfr sequences were projected onto this profile with `mafft --keeplength --add`, which preserves the profile's column indexing so every added sequence is expressed in P0ABQ4 coordinates. Reference positions were assigned by counting non-gap residues in the P0ABQ4 row; Met20 maps to profile column 77 (asserted programmatically). This produced `04_folA804_aligned_to_profile.faa` (134 profile + 804 added folA rows) and `04_dfr60_aligned_to_profile.faa` (134 profile + 60 added dfr rows).
 
-Both folA and dfrA sequence sets were mapped to the same P0ABQ4 reference coordinate. AA20 was defined as the alignment column containing the 20th non-gap residue of P0ABQ4. For the final comparison:
+### Per-residue statistical testing
 
-- folA sequences excluded the P0ABQ4 reference and headers containing `dfrA`; 1,290 non-gap standard amino acids were counted.
-- dfrA sequences were selected from `dfrA_plus_folA_ref_mafft.fasta` using the regex `\bdfrA`; 682 non-gap standard amino acids were counted.
+For every P0ABQ4 reference position 1–159 and every standard amino acid, a 2×2 contingency table was built — `[[n with that residue in dfr, n without], [n with that residue in folA, n without]]` — and tested with a two-sided Fisher exact test. Positions with zero occurrences in both groups were skipped. Benjamini–Hochberg FDR correction was applied across all tests performed (2,669 (position, residue) combinations), yielding a q-value and an FDR-0.05 significance flag for each. Effect size was reported as Δ = fraction_dfr − fraction_folA in percentage points. Full results are in `02_sequence_database/data/05_fisher_results_perresidue.csv`.
 
-The major AA20 proportions were:
+### Key result
 
-| Group | L | I | M |
-|---|---:|---:|---:|
-| folA | 830/1290 = 0.643 | 179/1290 = 0.139 | 192/1290 = 0.149 |
-| dfrA | 413/682 = 0.606 | 193/682 = 0.283 | 70/682 = 0.103 |
+Position 20 (E. coli Met20) shows the largest effect size in the enzyme:
 
-This analysis provides sequence-background evidence that L, I, and M dominate the P0ABQ4-aligned AA20 position in broader DHFR-family sequence space, with the filtered dfrA-family set showing a higher fraction of I.
+| AA20 state | n_dfr / N_dfr | frac_dfr | n_folA / N_folA | frac_folA | Δ (pp) | Fisher p | BH q |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Ile | 35/60 | 0.583 | 77/804 | 0.096 | +48.8 | 2.1×10⁻¹⁸ | 6.2×10⁻¹⁶ |
+| Met (wild-type) | 0/60 | 0.000 | 207/804 | 0.257 | −25.7 | 5.3×10⁻⁸ | 3.5×10⁻⁶ |
+| Leu | 25/60 | 0.417 | 456/804 | 0.567 | −15.0 | 0.030 | 0.284 (n.s.) |
+
+Ile-20 is enriched and Met-20 is depleted in the naturally horizontally-transferred dfr resistance family relative to the chromosomal folA background — i.e., the single lab-evolved substitution M20I recapitulates the dominant natural resistance state at that position. Across all 159 aligned positions, 30 show both a significant loss (q < 0.05) and a significant gain (q < 0.05) between the two families; among these, M20I is the largest single gain in the enzyme, with D27E the next most prominent recapitulated swap.
 
 ## Combined Homolog IC50 Analysis
 
@@ -238,4 +233,4 @@ For each fit, the output included IC50, Hill coefficient, bottom, top, R-squared
 
 ## Software
 
-Analyses were performed with Python scripts using `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`, and Biopython. Multiple sequence alignments were generated with MAFFT. DHFR-domain detection in the dfrA-family sequence analysis used HMMER with Pfam model PF00186. MMseqs2-clustered folA representative sets were used for the external folA background comparison.
+Analyses were performed with Python scripts using `pandas`, `numpy`, `scipy`, `statsmodels`, `matplotlib`, `seaborn`, `adjustText`, and Biopython. Multiple sequence alignments were generated with MAFFT. DHFR-domain detection for the module-01 PDB entry set used HMMER with Pfam model PF00186. The folA-versus-dfrA divergence analysis (module 02) drew the dfr resistance-enzyme set from the NCBI AMRFinderPlus reference database and used `cd-hit` to dereplicate and cluster the chromosomal folA background set.

@@ -434,9 +434,9 @@ if __name__ == "__main__":
     
     # Set default paths
     if args.classification is None:
-        args.classification = Path(__file__).parent / "ligand_classification.csv"
+        args.classification = Path(__file__).resolve().parent.parent / "data" / "ligand_classification.csv"
     if args.dihedral is None:
-        args.dihedral = Path(__file__).parent / "dihedral_angles_pos20.csv"
+        args.dihedral = Path(__file__).resolve().parent.parent / "data" / "dihedral_angles_pos20.csv"
     
     plot_psi_by_ligand_category(
         str(args.classification),
