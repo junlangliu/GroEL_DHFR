@@ -490,7 +490,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     if args.input is None:
-        input_csv = Path(__file__).parent / "dihedral_angles_pos20.csv"
+        input_csv = Path(__file__).parent / "data" / "dihedral_angles_pos20.csv"
     else:
         input_csv = Path(args.input)
     
@@ -502,6 +502,9 @@ if __name__ == "__main__":
         check_data_quality(str(input_csv))
     elif args.compare_lengths:
         if args.dhfr_csv is None:
+            # NOTE: dhfr_entries_cleaned.csv has no equivalent in the packaged
+            # data/ directory; this default only applies under --compare-lengths
+            # and will not resolve unless --dhfr-csv is passed explicitly.
             dhfr_csv = Path(__file__).parent.parent / "pdb_extraction" / "dhfr_entries_cleaned.csv"
         else:
             dhfr_csv = Path(args.dhfr_csv)

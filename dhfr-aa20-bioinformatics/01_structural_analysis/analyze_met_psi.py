@@ -336,7 +336,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     if args.input is None:
-        csv_path = Path(__file__).parent / "dihedral_angles_pos20.csv"
+        csv_path = Path(__file__).parent / "data" / "dihedral_angles_pos20.csv"
     else:
         csv_path = Path(args.input)
     

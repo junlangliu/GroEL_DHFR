@@ -15,6 +15,9 @@ data_raw/
 *.tsv.gz
 *_collapse_d1.tsv
 
+# Live-download working dir from 02_sequence_database/01_build_sequence_sets.py
+02_sequence_database/seqbuild/
+
 # Large intermediate files
 *.fasta.gz
 

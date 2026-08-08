@@ -441,9 +441,9 @@ if __name__ == "__main__":
     
     # Set default paths
     if args.classification is None:
-        args.classification = Path(__file__).parent / "ligand_classification.csv"
+        args.classification = Path(__file__).parent / "data" / "ligand_classification.csv"
     if args.dihedral is None:
-        args.dihedral = Path(__file__).parent / "dihedral_angles_pos20.csv"
+        args.dihedral = Path(__file__).parent / "data" / "dihedral_angles_pos20.csv"
     
     # Convert to sets
     target_cofactors = set(c.upper() for c in args.cofactors)

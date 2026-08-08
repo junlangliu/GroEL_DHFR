@@ -603,7 +603,7 @@ def main(
 ) -> None:
     # Set up paths
     if csv_path is None:
-        csv_path = Path(__file__).parent.parent / "msa" / "pdb_aa_list_pos20.csv"
+        csv_path = Path(__file__).parent / "data" / "pdb_aa_list_pos20_591.csv"
     else:
         csv_path = Path(csv_path)
 
